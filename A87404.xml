@@ -1,0 +1,730 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oi eleemonez eleethesuntai, or Gods mercy for mans mercy. Opened in a sermon at the spittle, March 31. 1657. before the Right Honourable the Lord Major, the aldermen, &amp;c. By Thomas Jacomb minister of the Gospel at S. Martins Ludgate, London.</title>
+            <author>Jacombe, Thomas, 1622-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87404</idno>
+            <idno type="STC">Wing J114</idno>
+            <idno type="STC">Thomason E912_13</idno>
+            <idno type="STC">ESTC R207554</idno>
+            <idno type="EEBO-CITATION">99866598</idno>
+            <idno type="PROQUEST">99866598</idno>
+            <idno type="VID">118874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118874)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E912[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oi eleemonez eleethesuntai, or Gods mercy for mans mercy. Opened in a sermon at the spittle, March 31. 1657. before the Right Honourable the Lord Major, the aldermen, &amp;c. By Thomas Jacomb minister of the Gospel at S. Martins Ludgate, London.</title>
+                  <author>Jacombe, Thomas, 1622-1687.</author>
+               </titleStmt>
+               <extent>[4], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Philemon Stephens and are to be sold at the gilded Lion in S. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first three words of title transliterated from Greek.</note>
+                  <note>Annotation on Thomason copy: "June 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Mercy --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118874:1"/>
+            <pb facs="tcp:118874:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> OR <hi>Gods Mercy for Mans Mercy.</hi> Opened in a SERMON <hi>at the</hi> SPITTLE, March 31. 1657. Before the <hi>Right Honourable</hi> the <hi>Lord Major,</hi> the <hi>Aldermen, &amp;c.</hi>
+            </p>
+            <p>By <hi>Thomas Jacomb</hi> Miniſter of the Goſpel at S. <hi>Martins Ludgate, London.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Hebr. 13.16.</hi>
+               </bibl>
+               <p>But to do good, and to communicate forget not, for with ſuch Sacrifices God is well pleaſed.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 Cor. 8.9.</hi>
+               </bibl>
+               <p>For ye know the grace of our Lord Jeſus Chriſt, that though he was rich, yet for your ſakes he became poor, that ye through his poverty, might be made rich.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Chryſoſt. Eclog. de Eleem. l. 6.</p>
+            </q>
+            <q>
+               <p>Pauperes—remuneratorem nobis faciunt Dominum, qui ſe pro paupere obligan<g ref="char:EOLhyphen"/>dum obtulit.</p>
+               <bibl>
+                  <hi>Ambroſ.</hi> Offic. l. 2. c. 25.</bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Philemon Stephens</hi> and are to be ſold at the gilded Lion in S. <hi>Pauls</hi> Church-yard. 1657.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118874:2"/>
+            <pb facs="tcp:118874:2"/>
+            <head>To the Right Honorable Sir <hi>ROBERT TITCHB<g ref="char:V">Ʋ</g>RNE</hi> Knight, Lord <hi>Major</hi> of the <hi>City</hi> of <hi>London,</hi> and to the <hi>Right Worſhipful</hi> the <hi>Aldermen.</hi>
+            </head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>YOu were pleaſed to favour this <hi>Ser<g ref="char:EOLhyphen"/>mon</hi> with your <hi>ſerious attention</hi> in the preaching of it, and after with your <hi>Candid acceptation;</hi> which <hi>good<g ref="char:EOLhyphen"/>neſſe</hi> of yours doth as much <hi>incourage</hi> me, as your <hi>Authority</hi> doth <hi>command</hi> and <hi>oblige</hi> me, to make it <hi>publick.</hi>
+            </p>
+            <p>If any ſhould ſay to me, as <hi>Joab</hi> once ſaid to <hi>Ahimaaz, Wherefore wilt thou run my Son, ſeeing thou haſt no ti<g ref="char:EOLhyphen"/>dings ready?</hi> (or at leaſt not fit for the Preſſe;) I have nothing to reply for my
+<pb facs="tcp:118874:3"/>
+               <hi>Vindication,</hi> but obedience to your <hi>Ho<g ref="char:EOLhyphen"/>nours</hi> command, and the neceſsity and excellency of the <hi>Subject</hi> which is here handled.</p>
+            <p>I hope that <hi>Sermon</hi> which begs <hi>cha<g ref="char:EOLhyphen"/>rity</hi> for others, will finde ſome <hi>cha<g ref="char:EOLhyphen"/>rity</hi> for it <hi>ſelf,</hi> which indeed it needs ve<g ref="char:EOLhyphen"/>ry much, for tis full of <hi>wants</hi> and <hi>weak<g ref="char:EOLhyphen"/>neſſes.</hi> But ſuch as it is, he commits it to God, and preſents it to you, who is</p>
+            <closer>
+               <signed>Yours in all Offices to ſerve you THO. JACOMB.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118874:3"/>
+            <head>Gods Mercy for Mans Mercy.</head>
+            <head type="sub">Opened In a SERMON at the <hi>Spittle,</hi> March 31. 1657.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matth. 5.7.</hi>
+                  </bibl>
+                  <p>Bleſſed are the Merciful, for they ſhall obtain Mercy.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough the <hi>Sun</hi> in the Firmament is al<g ref="char:EOLhyphen"/>wayes very glorious, yet 'tis obſerved, that this excellent creature, is moſt glorious in the <hi>Morning</hi> when it riſes, and in the <hi>Evening</hi> when it ſets. The Application of this to <hi>Jeſus Chriſt</hi> in his <hi>Miniſtery</hi> will hold true in a very great meaſure; for though all his Sermons were highly ſpiritual and of tranſcendent worth, yet above all, the <hi>Firſt</hi> and the <hi>Laſt</hi> ſeem to have the <hi>preheminence;</hi> (if we may in this without boldneſſe make any compariſon.)</p>
+            <p>The <hi>Firſt</hi> you have laid down here by this <hi>Evan<g ref="char:EOLhyphen"/>geliſt,</hi> in <hi>this</hi> and in the <hi>two</hi> following <hi>Chapters;</hi> which is ſo full and comprehenſive, that it contains <hi>Per<g ref="char:EOLhyphen"/>fectum vitae Chriſtianae modum</hi> (as <hi>Auguſtine</hi> ſpeaks) 'Tis a <hi>Summary</hi> of all practical Religion,<note place="margin">
+                  <hi>Auguſt.</hi> do Serm. Dom. in Monte. <hi>John 13. &amp;c.</hi>
+               </note> a perfect <hi>Model</hi> and <hi>Plat-form</hi> of all Chriſtianity; that as in the <hi>Laſt</hi> Sermon you have the ſum of the Saints <hi>pri<g ref="char:EOLhyphen"/>viledges,</hi> ſo in <hi>this</hi> you have the ſum of the Saints
+<pb n="2" facs="tcp:118874:4"/>
+               <hi>duties.</hi>
+               <note place="margin">In hoc quintum caput irrue<g ref="char:EOLhyphen"/>runt immundi porci M Lu<g ref="char:EOLhyphen"/>ther, f. <hi>7.</hi> in Praeſat. ad Enar. in c. <hi>5.</hi> ad Matth.</note> 
+               <hi>Duties,</hi> I ſay; for what is here handled, is not in a way of <hi>Counſel</hi> only, to <hi>ſome,</hi> that do aſpire to perfection, and would <hi>ſupererogate</hi> (as the <hi>Papiſts</hi> would teach us in their <hi>Duodecim conſilia Evangelica</hi>) but in a way of <hi>precept</hi> or command as reaching to <hi>all</hi> Chriſtians.</p>
+            <p>This Sermon begins with that, which all men de<g ref="char:EOLhyphen"/>deſire to <hi>end</hi> with, and that is <hi>Bleſſedneſſe.</hi> And our Saviour doth therefore begin with this, that he might the better <hi>inſinuate</hi> himſelf and his doctrine into the hearts of his hearers,<note place="margin">Enar. in c. <hi>5.</hi> ad Matth. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſ. To. <hi>1.</hi> in N.T. Hom. <hi>15.</hi> in c. <hi>5.</hi> ad Matth.</note> he making it hereby more amiable and leſſe grievous to them, (as <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome</hi> obſerves. <hi>Bleſſedneſs</hi> is that which <hi>all deſire,</hi> but <hi>few know,</hi> and <hi>fewer purſue</hi> after in a right way. The old <hi>Philoſophers</hi> like the <hi>blinde</hi> men in <hi>Sodom</hi> groped for this <hi>door</hi> but could not finde it; they did beat their brains to come to the knowledge of true hap<g ref="char:EOLhyphen"/>pineſſe, but with all their <hi>digging</hi> could never <hi>ſpring</hi> the <hi>Mine</hi> where this <hi>treaſure</hi> lay.<note place="margin">De Civit. Dei l. <hi>19.</hi> c. <hi>1.</hi>
+               </note> 
+               <hi>Auguſtine</hi> out of <hi>Varro</hi> tells us, there were no leſſe then 288 <hi>Sects</hi> amongſt them about it: <hi>Jeſus Chriſt</hi> hath told us in a few words, <hi>what</hi> it is, and <hi>where</hi> it lies. That what the learned <hi>Mirandula</hi> ſaies of <hi>Truth,</hi> may here be applyed to <hi>Bleſſedneſſe.</hi>
+               <note place="margin">Philoſophia quaerit, Theologia in<g ref="char:EOLhyphen"/>venit, religio poſſidet</note> The <hi>Philoſopher ſeeks</hi> it, the <hi>Divine findes</hi> it, the true <hi>Chriſtian enjoyes</hi> it: or, (as we <hi>proverbially</hi> expreſſe it,) <hi>They beat the Buſh,</hi> and we under the Goſpel <hi>get the Bird.</hi>
+            </p>
+            <p>And yet if we look into particulars, we ſhall finde nothing here in this diſcourſe of our Saviour but <hi>Pa<g ref="char:EOLhyphen"/>radoxes;</hi>
+               <note place="margin">Quis unquam vel cogitare potuit, quod in paupertate ſita eſſet faelicitas, <hi>V. Avendan.</hi> in Matth.</note> for he calls that Bleſſedneſſe, which the World calls Miſery; and Chriſts <hi>Benjamin</hi> is the Worlds <hi>Benoni. Bleſſed are the poor in ſpirit; Bleſ<g ref="char:EOLhyphen"/>ſed are they that mourn, Bleſſed are they which hunger and
+<pb n="3" facs="tcp:118874:4"/>thirſt, &amp;c. Bleſſed are they which are perſecuted.</hi> This is ſtrange doctrine! <hi>How can theſe things be?</hi> Are theſe your bleſſed men? Is this your bleſſedneſſe? then ſay carnal men, take it to your ſelves, the Lord deliver us from it. Oh, what an incompetent Judge is <hi>Carnal Reaſon</hi> in the things of God! If that might here paſſe judgement, all this of Chriſt would be blotted out, and inſtead thereof ſuch as this put in: <hi>Bleſſed</hi> are the <hi>rich; Bleſſed</hi> are they that <hi>laugh,</hi> that <hi>feed delitiouſly,</hi> and <hi>ſwim</hi> in the <hi>ſtreams</hi> of plea<g ref="char:EOLhyphen"/>ſure, &amp;c. The Lord rebuke this <hi>Satan</hi> of <hi>Carnal Reaſon!</hi>
+            </p>
+            <p>This <hi>Ladder</hi> of happineſſe (the <hi>foot</hi> whereof is on Earth,<note place="margin">Gen. 28.12.</note> but the <hi>top</hi> reaches to Heaven) is made up of <hi>Eight Rounds,</hi> which are like the Eight Steps to the going up of <hi>Ezekiels</hi> Temple.<note place="margin">Ezek. 40.31.</note> The <hi>Naturaliſts,</hi> when they would ſpeak a quality very <hi>intenſe,</hi> they call it <hi>Calor ad Octo,</hi> or <hi>Frigus ad Octo.</hi> Without levity I hope I may allude to it in this caſe: Would you ſpeak a man <hi>very happy,</hi> bleſſed in the higheſt <hi>degree</hi> of bleſſedneſſe, ſay he is <hi>Beatus ad octo,</hi> or one that hath an intereſt in theſe <hi>Eight Beatitudes.</hi>
+            </p>
+            <p>I have ſingled out <hi>one</hi> of theſe to be the ſubject of my Diſcourſe this day, at this ſolemn <hi>Anniverſary</hi> Meeting. And I hope my Sermon will be ſeaſona<g ref="char:EOLhyphen"/>ble, a <hi>word fitly ſpoken, Verbum ſuper rotas,</hi>
+               <note place="margin">Prov. 25.11.</note> (as the <hi>Hebrew</hi> carries it.) This day is <hi>Dies Pauperum,</hi> this Text is <hi>Scriptura Pauperum.</hi> The poor mans <hi>Day,</hi> and the poor mans <hi>Text</hi> will ſuit very well. <hi>Bleſſed are the merciful, &amp;c.</hi>
+            </p>
+            <p>The Text is made up of <hi>Mercy,</hi> 'tis filled with it: It <hi>Begins with</hi> Mercy, it <hi>Ends</hi> with mercy: <hi>Bleſſed are the merciful,</hi> there 'tis <hi>mercy</hi> in a way of <hi>Debt; they
+<pb n="4" facs="tcp:118874:5"/>ſhall obtain mercy,</hi> there 'tis <hi>mercy</hi> in a way of <hi>Grace.</hi> In the former 'tis mans <hi>mercy</hi> to <hi>Man;</hi> in the ſecond 'tis <hi>Gods</hi> mercy to <hi>man.</hi>
+            </p>
+            <p>In the words,<note place="margin">Vid. <hi>Pureum</hi> in locum.</note> ſay the <hi>Popiſh</hi> Writers, there is, <hi>Meritum viae &amp; praemium Patriae</hi> (for thus they di<g ref="char:EOLhyphen"/>vide all the <hi>Beatitudes,</hi>) but here the foundation is <hi>written.</hi> Plainly thus, you have in them.</p>
+            <list>
+               <item>1. A <hi>Propoſition.</hi>
+               </item>
+               <item>2. The <hi>Proof</hi> or <hi>Confirmation</hi> of this Propoſition.</item>
+            </list>
+            <p>A <hi>Propoſition, Bleſſed are the merciful.</hi>
+            </p>
+            <p>The <hi>confirmation</hi> of this, <hi>For they ſhall obtain mercy.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; the word is very full, I know not well how to expreſſe it; they ſhall be <hi>made</hi> mercy, mercy <hi>all over:</hi>
+               <note place="margin">1. Tim. 1.13.</note> As <hi>Paul</hi> ſpeaks of himſelf, <hi>I was a Blaſphemer, &amp;c. But I obtained mercy;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; that is, from top to toe I was nothing but mer<g ref="char:EOLhyphen"/>cy, I was a very maſs of mercy. So here.</p>
+            <p>Further, <hi>Sub-diviſions</hi> would be but vain, and fur<g ref="char:EOLhyphen"/>ther, <hi>Explication</hi> unneceſſary: paſſing by therefore all that is <hi>Praeliminary,</hi> I come to the point, which ſhall-take in the <hi>Summe</hi> of the Text. 'Tis this.</p>
+            <p>
+               <hi>The merciful man is a bleſſed man,</hi>
+               <note place="margin">Doctr.</note> 
+               <hi>and therefore bleſſed, becauſe he ſhall obtain mercy.</hi>
+            </p>
+            <p>In the proſecuting of which, I will</p>
+            <p>
+               <hi>Firſt</hi> ſpeak to the <hi>Subject, The merciful man.</hi> And then <hi>Secondly</hi> to the <hi>praedicate</hi> and <hi>confirmation</hi> of the propoſition, this man is <hi>bleſſed;</hi> and therefore bleſ<g ref="char:EOLhyphen"/>ſed, <hi>becauſe he ſhall obtain mercy.</hi>
+            </p>
+            <p>I begin with the <hi>Firſt.</hi>
+               <note place="margin">Miſericordia. eſt aliena mi<g ref="char:EOLhyphen"/>ſeriae in corde noſtro compaſ<g ref="char:EOLhyphen"/>ſio. <hi>Aug.</hi> de Civ. Dei, l. 9. c. 1.</note> The <hi>merciful</hi> man may be thus deſcribed, He is one, <hi>Who hath a tender compaſ<g ref="char:EOLhyphen"/>ſion towards others in miſery, and doth endeavour to his utmoſt by all wayes and means to be helpful to them, for the bringing of them out of their miſery.</hi>
+            </p>
+            <pb n="5" facs="tcp:118874:5"/>
+            <p>I infer <hi>four</hi> things out of this deſcription.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, <hi>Mercy is a Relative act;</hi> an act, or that which relates to others. God hath his works <hi>ad intra</hi> and <hi>ad extra;</hi>
+               <note place="margin">Quia miſeri<g ref="char:EOLhyphen"/>cordia est com<g ref="char:EOLhyphen"/>paſsio miſeriae alterius, pro<g ref="char:EOLhyphen"/>prie miſericor<g ref="char:EOLhyphen"/>dia est ad alte<g ref="char:EOLhyphen"/>rum non au<g ref="char:EOLhyphen"/>tem ad ſeip<g ref="char:EOLhyphen"/>ſum niſi per ſt<g ref="char:EOLhyphen"/>militudmem. <hi>Aquin. 2</hi>a <hi>2</hi>ae. q <hi>30.</hi> art. <hi>1.</hi>
+               </note> ſome are <hi>terminated</hi> in himſelf and go no further, but ſome are <hi>Relative</hi> and <hi>tranſient,</hi> which reach to the Creature: So it is with us; we have ſome acts which are proper to our ſelves, being bounded and terminated in our own perſons; there are others which relate to our Brethren, and fellow-creatures; of this nature is <hi>Mercy.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, <hi>Miſery is the proper object of Mercy:</hi> and indeed if there was no <hi>miſery,</hi> there could be no <hi>mercy,</hi> for miſery is the foundation and the <hi>object</hi> of mercy. As we ſay concerning <hi>God:</hi> Had there been no <hi>miſery</hi> in the Creature, there might have been <hi>Grace,</hi> but not properly <hi>mercy,</hi> becauſe that neceſſa<g ref="char:EOLhyphen"/>rily preſuppoſes <hi>miſery.</hi> Had <hi>Adam</hi> ſtood in the ſtate of innocency, there would have been room for <hi>grace</hi> but not for <hi>mercy</hi> in a ſtrict ſenſe. 'Tis grace onely to the <hi>ſtanding</hi> Angels: if God ſhould take a <hi>fal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en</hi> Angel out of Hell, there would be <hi>mercy</hi> alſo as well as <hi>grace,</hi> becauſe they are in a ſtate of miſery. And ſo it is in the caſe I am upon; If our Brethren were under no ſufferings, under the enduring of nothing that is evil, under the wanting of nothing that is good, here might be <hi>love,</hi> but not <hi>mercy</hi> properly, becauſe this doth <hi>connote</hi> and <hi>involve</hi> or <hi>imply</hi> a ſtate of <hi>miſery.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, the <hi>proper vital act of mercy is compaſsion;</hi> every grace hath its <hi>eſſential</hi> main <hi>act</hi> by which 'tis diſtinguiſhed from other graces, <hi>Adherence</hi> the eſ<g ref="char:EOLhyphen"/>ſential act of <hi>faith, ſubmiſsion</hi> the eſſential act of <hi>pa<g ref="char:EOLhyphen"/>tience,
+<pb n="6" facs="tcp:118874:6"/>&amp;c.</hi> And ſo in <hi>mercy,</hi>
+               <note place="margin">Miſericors di<g ref="char:EOLhyphen"/>citur aliquis quoſi habens miſerum cor, quia ſcilicet affiicitur ex miſeriâ alteri<g ref="char:EOLhyphen"/>per triſtitiam ac ſi eſſet ejus propria miſe<g ref="char:EOLhyphen"/>ria. <hi>Aquin. 1. p.</hi> Q. <hi>21.</hi> A. <hi>30.</hi> Homo ſum, hu<g ref="char:EOLhyphen"/>mani à me ni<g ref="char:EOLhyphen"/>hil alienum puto. <hi>Terent. Rom. 12.15. Exod 2.6. Luke 10.33. Matth. 9.36.</hi> Et paſſim. <hi>Pſal. 112.4.</hi>
+               </note> that hath its <hi>proper</hi> act, and that is <hi>compaſsion:</hi> The <hi>merciful</hi> man is the <hi>com<g ref="char:EOLhyphen"/>paſsionate</hi> man; he reſents the miſeries of <hi>others,</hi> as if they were his <hi>own,</hi> his heart doth <hi>yern</hi> over his Bre<g ref="char:EOLhyphen"/>threns <hi>calamities,</hi> his very bowels are ſtirred within him for thoſe that are afflicted, he <hi>mourns</hi> with them that <hi>mourn,</hi> and ſympathizes with them that are in diſtreſſe. This mercifulneſſe was in <hi>Pharaohs</hi> Daugh<g ref="char:EOLhyphen"/>ter, when ſhe ſaw the childe in the <hi>Ark</hi> of <hi>Bul<g ref="char:EOLhyphen"/>ruſhes</hi> (a very ſad Cradle) and that <hi>the Babe wept,</hi> the Text ſaies, <hi>She had compaſsion on it.</hi> And ſo in the <hi>good Samaritan</hi> when he paſſed by the poor man, who had <hi>fallen amongst theeves,</hi> and <hi>ſaw him ſtripped</hi> of all and <hi>wounded,</hi> this merciful <hi>Samaritan</hi> had <hi>compaſsion on him.</hi> And very much of this pitty was in our Lord <hi>Ie<g ref="char:EOLhyphen"/>ſus</hi> Chriſt, as the <hi>Goſpel</hi> holds it forth in ſeveral pla<g ref="char:EOLhyphen"/>ces. I ſay this is the very ſoul of <hi>mercifulneſſe,</hi> an <hi>in<g ref="char:EOLhyphen"/>ward ſenſe</hi> and a <hi>deep compaſsion</hi> of the troubles of o<g ref="char:EOLhyphen"/>thers; <milestone type="tcpmilestone" unit="unspecified" n="4"/> and therefore <hi>David</hi> puts them together, <hi>He is gracious</hi> (that is, merciful) <hi>and full of compaſsion.</hi>
+            </p>
+            <p>Fourthly, the <hi>fruit and reſult of this compaſsion is this,</hi> the merciful man <hi>ſets himſelf to do good to thoſe, whoſe caſe he doth thus commiſerate.</hi>
+               <note place="margin">Jam. 2.16.</note> Mercy is an <hi>active</hi> and a <hi>communicative</hi> thing. He that is truly merciful doth not take up with a few good words, <hi>Depart in peace, be ye warmed and filled,</hi> this kinde of charity is very <hi>cheap</hi> and very <hi>common</hi>) nor with a few <hi>ſighes;</hi> True indeed, ſuch a mans condition is very ſad, I pitty him with all my heart: the merciful man goes further, what is there to be <hi>done</hi> for this poor man, can I <hi>do</hi> nothing for him? If I can, <hi>Head,</hi> and <hi>Heart,</hi> and <hi>Hand,</hi> and <hi>Purſe,</hi> all ſhall be laid out for his good.<note place="margin">Luke 10.34.</note> The <hi>Samaritan</hi> had <hi>compaſsion</hi> on him whom he ſaw in a ſad condition, and how did that work?
+<pb n="7" facs="tcp:118874:6"/>
+               <hi>He bound up his wounds, putting in oyl and wine, and ſet him on his own beaſt, and brought him to an Inne, and took care of him, &amp;c.</hi> This in <hi>General</hi> for the <hi>merciful man,</hi> and for the nature of <hi>mercifulneſſe.</hi>
+            </p>
+            <p>That I may open this more <hi>particularly,</hi> I muſt di<g ref="char:EOLhyphen"/>ſtinguiſh of mercy. There is <hi>Miſericordia ſpiritua<g ref="char:EOLhyphen"/>lis,</hi> and <hi>Miſericordia temporalis;</hi> mercy to the <hi>Soul,</hi> and mercy to the <hi>Body. Spirituall</hi> mercy which ſtreams out in ſpiritual things to the ſoul; and <hi>Tem<g ref="char:EOLhyphen"/>poral mercy,</hi> which runs out in temporal things to the body. The <hi>Text</hi> takes in <hi>both</hi> of theſe branches, or mercy in the <hi>utmoſt latitude</hi> and <hi>higheſt elevation</hi> of it.</p>
+            <p>The <hi>firſt</hi> of theſe is far the higheſt, even mercy to the ſoul; As the <hi>Soul</hi> is infinitely more precious then the <hi>body,</hi> (for what is the <hi>Cabinet</hi> to the <hi>Pearl,</hi> what is the <hi>peece of Clay</hi> to the <hi>Spark</hi> of <hi>eternity?</hi>) So that mercy which reaches to the ſoul is infinitely higher then that which reaches to the body. <hi>Hu<g ref="char:EOLhyphen"/>manity</hi> will draw out the <hi>Latter,</hi> but tis <hi>Grace</hi> onely will draw out the <hi>former. Morality</hi> will pitty the <hi>Beggar,</hi> 'tis <hi>grace</hi> onely, will pitty the <hi>ſinner.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+            </p>
+            <p>Firſt, there is <hi>Miſericordia Spiritualis;</hi> The <hi>ſpi<g ref="char:EOLhyphen"/>rituall mercifull</hi> man doth lay out his compaſſion in ſuch acts as theſe. If he ſees any in a Naturall unregenerate eſtate, <hi>without God,</hi> and <hi>Chriſt,</hi> his ſoul bleeds over ſuch,<note place="margin">Hebr. 3 2.</note> and his hearts deſire is that they may be <hi>converted.</hi> If he meets with any that are ignorant, as 'tis ſaid of <hi>Chriſt,</hi> He hath <hi>Compaſſion</hi> on ſuch, and he will <hi>inſtruct</hi> them in the myſteries of the <hi>Goſpell.</hi> Do any <hi>erre</hi> from the truth,<note place="margin">
+                  <hi>Gal. 6.1.</hi> Vera juſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t a non habet de<g ref="char:EOLhyphen"/>dignationem ſed compaſſio<g ref="char:EOLhyphen"/>nem. <hi>Greg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </note> he will not <hi>Separate</hi> from them, and caſt them off, but rather he will labour to bring them back again by <hi>ſober</hi> and <hi>milde</hi> arguing. If any be <hi>overtaken</hi> with ſin, he will reprove with all <hi>meekneſs;</hi> not being <hi>cenſorious</hi> and
+<pb n="8" facs="tcp:118874:7"/>
+               <hi>rigid</hi> and <hi>harſh,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Matth. 28.26.</note> but covering and reprooving in<g ref="char:EOLhyphen"/>firmities with a ſpirit of <hi>Love.</hi> If <hi>injuries</hi> be done to him, he readily paſſes them, by, <hi>forgiving</hi> that he may be <hi>forgiven,</hi> and forgiving <hi>pence</hi> becauſe God hath forgiven <hi>thouſands, millions</hi> to himſelf. If he ſees any that are <hi>ſad</hi> and dejected, he will endeavour to comfort them, eſpecially thoſe that lye under a <hi>wounded Spirit,</hi> as knowing that of all <hi>afflictions</hi> this is the moſt <hi>intolerable.</hi>
+               <note place="margin">Prov. 18.14.</note> 
+               <hi>The ſpirit of a man may ſuſtain his infirmities, but a wounded ſpirit who can bear?</hi> Oh, the mercifull man pitties theſe indeed, goes and ſits with them, <hi>confers</hi> with them, prayes with them, <hi>ſpreads</hi> the <hi>promiſes</hi> before them, to ſupport <hi>ſaith</hi> and <hi>Hope.</hi> This is the ſpirituall mercifull man. The <hi>Schooles</hi> expreſs all the branches of this <hi>mercy</hi> in one <hi>Verſe.</hi>
+            </p>
+            <p>
+               <label>Conſule, Caſtiga, Solare, remitte, Fer, Ora.</label>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, there is <hi>Miſericordia Temporalis,</hi> mercy that flowes out upon the <hi>outward</hi> man in the things of this life; and this is the mercy which <hi>this Day</hi> leads me to ſpeake of. This lyes in our viſiting the ſick, in our feeding the hungry bellies, in our clo<g ref="char:EOLhyphen"/>thing the naked backs, in our communicating out of our fullneſs to them that are in want. They that thus do, are the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Text. Such an one was <hi>Job.</hi> take but one <hi>place.</hi>
+               <note place="margin">Job 31.16, &amp;c.</note> 
+               <hi>If I have withheld the poore from their deſire, or have cauſed the eyes of the widdow to fayl, or have eaten my morſell my ſelfe alone, and the fatherleſs hath not eaten thereof; If I have ſeen any periſh for want of clothing, or any poore without covering; If his loynes have not bleſſed me,</hi> &amp;c. <hi>Then let mine arme fall from my ſhoulder-blade, and mine arme be broken from the bone.</hi>
+               <note place="margin">Lukd 19.8.</note> Such an one was <hi>Zaccheus,</hi>
+               <pb n="9" facs="tcp:118874:7"/>a man <hi>low</hi> in <hi>ſtature</hi> but <hi>high</hi> in <hi>grace,</hi>
+               <note place="margin">Luke 19.8.</note> 
+               <hi>He gave the halfe of his goods to the poore.</hi> I would ſome amongſt us would give but the <hi>twentith</hi> part; but 'tis ſo far from <hi>half,</hi> that 'tis juſt <hi>nothing.</hi> I might give ſeveral <hi>inſtances</hi> of this, both out of the <hi>Scripture</hi> and alſo out of <hi>common Authours,</hi> but I haſten to that which I moſt aim at.</p>
+            <p>I have done with the <hi>firſt</hi> thing propounded; I come to the <hi>ſecond.</hi> The mercifull man is <hi>bleſſed.</hi> I mean, the <hi>charitable,</hi> compaſſionate man to the poor (for I will limit my ſelf onely to that <hi>branch</hi> of mercifullneſſe) he is <hi>bleſſed:</hi> So ſayes the <hi>Text,</hi> and you may beleeve it, for <hi>Chriſt</hi> ſpoke it. And the Scripture elſe-where ſpeakes the ſame, <hi>Bleſſed is he</hi> (ſaith the <hi>Pſalmiſt) that conſidereth the poor. He that hath mercy on the poor,</hi>
+               <note place="margin">Pſal. 41.1. Prov. 14.21. Prov. 22.9.</note> (ſaith <hi>Salomon) happy is he.</hi> And again, <hi>He that hath a bountifull eye ſhall be bleſſed, for he giveth of his bread to the poor.</hi>
+            </p>
+            <p>Not to cite more places, I will a little inlarge upon the <hi>Argument</hi> in the Text, the <hi>mercifull</hi> are <hi>bleſſed,</hi> How doth that appear? Such, <hi>ſhall obtain mercy. Charity</hi> to men is alwayes crowned with <hi>mercy</hi> from God; They that open <hi>their</hi> hands of <hi>bounty,</hi> to them God will open <hi>his</hi> hands of <hi>mercy;</hi> and that in <hi>abundance</hi> too, they ſhall have the <hi>Sea</hi> for the <hi>drop,</hi>
+               <note place="margin">Quoniam ſuper ipſos erunt mi<g ref="char:EOLhyphen"/>ſericordiae. <hi>Tremel.</hi>
+               </note> the Sea of Gods mercy for the drop of their mercy; Plenty of mercy ſhall be given out unto them, as the Syriack renders the words. Let me open this in a few <hi>particulars.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, Mercifull men ſhall obtaine this mercy, <hi>They ſhall be under a ſpeciall providence for their pro<g ref="char:EOLhyphen"/>tection;</hi> And this reaches both to their <hi>perſons,</hi> and to their <hi>eſtates.</hi> For their <hi>perſons;</hi> In the midſt of
+<pb n="10" facs="tcp:118874:8"/>all dangers and troubles, God will keepe mercifull men even as the <hi>Apple</hi> of his own <hi>eye.</hi>
+               <note place="margin">
+                  <hi>Pſal. 41.1, 2.</hi> Qui apud men<g ref="char:EOLhyphen"/>ſam moratur, &amp; paupert cibat, illi vita prorogatur. In Talmude <hi>Buxt.</hi> Synag. Jud. c. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Chryſ. <hi>Hoſ. 5.12, 14.</hi>
+               </note> 
+               <hi>Bleſſed is he that conſidereth the poor;</hi> Bleſſed, wherein? <hi>The Lord will deliver him in time of trouble; The Lord will pre<g ref="char:EOLhyphen"/>ſerve him and keepe him alive; And he ſhall be bleſſed upon the earth; and thou wilt not deliver him into the hands of his enemies.</hi> They may rage and plot againſt ſuch a one, but God will hide him in the <hi>hollow</hi> of his hand, and he ſhall be ſafe. And there is a ſpeciall providence over his <hi>eſtate</hi> too; His houſe ſhall not he conſumed with fire, his wealth ſhall not diminiſh in his hands; what he <hi>hath</hi> he ſhall <hi>keepe;</hi> the <hi>little</hi> he gives ſecures and ſanctifies the whole <hi>lumpe;</hi> God will not be to the charitable man either as the <hi>Lion,</hi> or as the <hi>Moth:</hi> (that is) he will neither ſuddainly take away his riches from him, nor yet cauſe them to conſume and ruſt no man knows how.<note place="margin">Pror. 28.27.</note> 
+               <hi>He that giveth unto the poor ſhall not lacke, but he that hideth his eyes ſhall have many a curſe;</hi> God will ſooner or later <hi>blaſt</hi> this mans eſtate, becauſe he doth ſo little good with it; Nay, ſeeing ſaith God you grudge me a little in the relieving of the poor, Ile ſerve my ſelfe, and take all from you.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, <hi>Mercifull mens prayers ſhall be anſwered.</hi> He that heares the needy mans prayers God will certainely heare his. <hi>Thy prayers and thy Almes are come up for a memoriall before God;</hi>
+               <note place="margin">Acts 10.4.</note> Said the <hi>Angell</hi> to <hi>Cornelius.</hi> Prayers that are <hi>mingled</hi> with acts of mercy do certainely mount up to Heaven.<note place="margin">Iſai 58.7.9.</note> 
+               <hi>Then ſhalt thou call, and the Lord ſhall anſwer, thou ſhalt cry, and he ſhall ſay, Here I am.</hi> Then, when? <hi>If thou deale thy bread to the hungry, and bring the poor that are
+<pb n="11" facs="tcp:118874:8"/>caſt out to thy houſe; if thou ſeeſt the naked and cover him,</hi>
+               <note place="margin">Non impetrabit de divind pie<g ref="char:EOLhyphen"/>tate aliquid qui ad precem pauper is non fuit humanus. <hi>Cypr.</hi> de Op. &amp; Eleem. <hi>Prov. 21.13.</hi>
+               </note> 
+               <hi>and hide not thy ſelfe from thy owne fleſh.</hi> The unchari<g ref="char:EOLhyphen"/>table hard-hearted man, let him pray never ſo much, <hi>all his prayers are loſt,</hi> God regards them not. <hi>Who ſo ſtoppeth his eares at the cry of the poor, he alſo ſhall cry himſelfe, and ſhall not be heard.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, <hi>God will returne to the mercifull man what he gives to the poor;</hi> he will reward him <hi>in kinde;</hi> that looke what ever it is that he beſtowes, it ſhall be in the very <hi>kinde</hi> made up to him again, many have found this to be very true;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chryſost.</hi> Prov. 11.24.</note> in the morning they have given may be <hi>five</hi> ſhillings, and before night God hath brought them in unexpectedly <hi>twenty</hi> for it. The beſt way for a man to <hi>increaſe</hi> his eſtate is charity; mony here like the <hi>widdowes</hi> oyle, the more 'tis <hi>powred</hi> out, the more it doth <hi>increaſe. There is that ſcattereth and yet increaſeth, and there is that with<g ref="char:EOLhyphen"/>holdeth more then is meet, and that tendeth unto poverty.</hi> There is a <hi>ſecret bleſſing</hi> upon the merciful, that they ſhall wonderfully <hi>proſper</hi> even in the things of this life. <hi>Thou ſhalt ſurely give him,</hi>
+               <note place="margin">Deut. 15.10.</note> 
+               <hi>and thine heart ſhall not be grieved when thou giveſt unto him; becauſe that for this thing the Lord thy God ſhall bleſs thee in all thy workes, and in all that thou putteſt thine hand unto.</hi> If God do not returne your mercy in the very <hi>kind,</hi> he will do it ſome <hi>other way;</hi> The charitable man makes God to be his <hi>creditor,</hi> and he will ſurely <hi>pay</hi> what is lent to him. A <hi>gift</hi> to the poor is a <hi>loan</hi> to God, and he is a faithfull <hi>pay-maſter.</hi>
+               <note place="margin">Prov. 19.17.</note> 
+               <hi>He that hath pitty on the poor lendeth unto the Lord, and that which he hath given will he pay him again.</hi> And therefore ſayes the <hi>wiſeman, Caſt thy bread upon the waters,</hi>
+               <note place="margin">Eccleſ. 11.1.</note> 
+               <hi>for thou ſhalt find it after many dayes.</hi>
+            </p>
+            <pb n="12" facs="tcp:118874:9"/>
+            <p>Fourthly, <hi>God will deal with him, as he deals with others;</hi> for that of our <hi>Saviour</hi> holds true in all ca<g ref="char:EOLhyphen"/>ſes, <hi>With what meaſure ye mete,</hi>
+               <note place="margin">Matth. 7.2. Prov. 11.25. 1 ſal. 18.25.</note> 
+               <hi>it ſhall be meaſured to you again. The liberal ſoul ſhall be made fat, and he that watereth, ſhall be watered alſo himſelf. With the merciful, thou wilt ſhew thy ſelf merciful.</hi> He that ſhuts up his bowels to his brother, God will ſhut up his bowels unto him; but he that is pittiful and com<g ref="char:EOLhyphen"/>paſſionate, ſhall finde the ſame at the hands of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, merciful men <hi>ſhall have mercy for their po<g ref="char:EOLhyphen"/>ſterity;</hi> their children ſhall be bleſſed for it, when they are dead and gone. Mercy is <hi>entailed</hi> upon the charitable mans children. What is given to the poor, is a childes <hi>portion</hi> put into the Lords hands to be kept for him.<note place="margin">Pſal. 37.26.</note> 
+               <hi>He is ever merciful and lendeth;</hi> and ſee what followes, <hi>And his ſeed is bleſſed.</hi> When <hi>David</hi> had received kindneſſe from <hi>Jonathan,</hi> ſee how he deſires to vent his love upon his poſterity; <hi>Is there not any yet of the houſe of Saul,</hi>
+               <note place="margin">2 Sam. 9.3.</note> 
+               <hi>that I may ſhew the kindneſſe of God unto him?</hi> God will make <hi>enquiry</hi> after the children of merciful men, and they ſhall be bleſſed for their parents ſake; he will not <hi>ſave</hi> them for the Fathers grace,<note place="margin">Rom. 1.17.</note> no, <hi>(The juſt ſhall live by his faith)</hi> but he will give them many <hi>outward bleſsings</hi> here for the Fathers charity. The <hi>Widdow</hi> of <hi>Sa<g ref="char:EOLhyphen"/>repta</hi> relieves the <hi>Prophet,</hi> and God by the Prophet raiſes up her <hi>childe</hi> for her.<note place="margin">1 Kings 17.20.</note>
+            </p>
+            <p>Sixthly and laſtly, merciful <hi>men</hi> ſhall have mer<g ref="char:EOLhyphen"/>cy, <hi>at the great day of judgement,</hi> a <hi>ſentence</hi> of life ſhall be paſſed upon them, and a <hi>crown</hi> of glory gi<g ref="char:EOLhyphen"/>ven them for their <hi>reward;</hi> at the great Aſſize of the World the <hi>proceſſe</hi> ſhall be by acts of mercy, <hi>Come ye bleſſed of my Father, &amp;c.</hi> Why ſo? <hi>For I was an
+<pb n="13" facs="tcp:118874:9"/>hungred, and ye gave me meat,</hi>
+               <note place="margin">Matth 25.34, &amp;c.</note> 
+               <hi>I was thirſty and ye gave me drink, naked, and ye clothed me, &amp;c.</hi> The merciful mans reward is <hi>ſure, He ſhall in no wiſe loſe his reward.</hi>
+               <note place="margin">Vid. Chryſoſt. Ho. <hi>23.</hi> Eclog. de Eleemeſ. <hi>Matth. 10.42.</hi>
+               </note> And as 'tis ſure, ſo 'tis <hi>great,</hi> for 'tis <hi>eternal life.</hi>
+            </p>
+            <p>Theſe things I paſſe over as briefly as I can, be<g ref="char:EOLhyphen"/>cauſe I haſten to the Application—you have the <hi>ſecond</hi> thing diſpatched, and that is the <hi>Bleſſedneſſe</hi> of merciful men, with the proof and <hi>confirmation</hi> of it, <hi>ſuch ſhall obtain mercy.</hi>
+            </p>
+            <p>For the preventing of miſtakes, and for the fur<g ref="char:EOLhyphen"/>ther ſtating of the point, I will lay down <hi>two Pro<g ref="char:EOLhyphen"/>poſitions.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The <hi>Firſt</hi> is this; 'tis not mercy <hi>Ex merito,</hi> but <hi>Ex pacto,</hi> or 'tis not mercy <hi>Ex debito,</hi> but <hi>Ex gratiâ.</hi>
+               <note place="margin">Nullo modo noſtra miſeri<g ref="char:EOLhyphen"/>cordia, &amp;c. <g ref="char:V">Ʋ</g>ſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> adeo ta<g ref="char:EOLhyphen"/>men-ut pro uno teruntio centies mille aureos, proque uno hauſtu a<g ref="char:EOLhyphen"/>quae frigida, regnum coelo<g ref="char:EOLhyphen"/>rum polliceri non dubitet. <hi>Luther.</hi> Quiſquis tibi enumerat me<g ref="char:EOLhyphen"/>rita ſua, quid tibi enumerat niſi munera tna. <hi>Aug.</hi> Conf. l. <hi>9</hi> c. <hi>13.</hi> Eleemoſina ſe<g ref="char:EOLhyphen"/>curitatis noſtrae ſalubre praeſi<g ref="char:EOLhyphen"/>dium, medela peccati, &amp;c. Cypr. <hi>very high</hi> de Op. &amp; Eleemoſ. Via <hi>Pamel</hi> in lo.</note> The merciful man ſhall have mercy, not becauſe he hath <hi>deſerved</hi> it, but becauſe God hath <hi>promiſed</hi> it. <hi>Me<g ref="char:EOLhyphen"/>rit?</hi> away with it. Alas, when we have been drawn out in charity to the utmoſt, ſhould we give all our goods to the poor, yet there is nothing merited at the hands of God. Do we not give of <hi>his own?</hi> What do we give for him, but what firſt we have <hi>received</hi> from him? The ſervant that followes his Maſter, at his Maſters command gives the Beggar an alms of mercy; doth this ſervant merit any thing, who gives nothing but what is his Ma<g ref="char:EOLhyphen"/>ſters? And ſo 'tis here. Let <hi>Grace</hi> be never ſo high, <hi>Obedience</hi> be never ſo high, and <hi>Mercy</hi> to the poor never ſo high, yet the <hi>reward is reckoned not of debt, but of grace.</hi> I confeſſe the <hi>Fathers</hi> before the Con<g ref="char:EOLhyphen"/>troverſie of <hi>Merit</hi> was ſtarted, ſpake very high in this point, but they are to be underſtood in a found ſenſe, and <hi>Cum grano ſalis.</hi>
+            </p>
+            <p>The <hi>Second Propoſition</hi> is this: <hi>Every merciful man
+<pb n="14" facs="tcp:118874:10"/>man ſhall have mercy,<note place="margin">2 Ep. John 3.</note> but not all the ſame mercy.</hi> There is a <hi>full reward.</hi> There is the mercy of <hi>Earth</hi> and the mercy of <hi>Heaven,</hi> the bleſſings of the <hi>Throne,</hi> and the bleſsings of the <hi>Foot-ſtool; Bowel-mercies,</hi> and <hi>Bounty-mercies.</hi> A meer <hi>moral</hi> man may be a mer<g ref="char:EOLhyphen"/>ciful man, this man ſhall have mercy for it, but 'tis <hi>nether-ſpring</hi> mercy onely, God will bleſſe him in his eſtate,<note place="margin">Matth. 6.2.</note> name, relations, and <hi>this is all.</hi> There are <hi>others</hi> now in the Covenant, united to Chriſt, acted from a ſaving <hi>principle,</hi> aiming at high and ſpi<g ref="char:EOLhyphen"/>ritual <hi>ends;</hi> theſe now ſhall have mercy in the <hi>high<g ref="char:EOLhyphen"/>eſt degree, Heaven</hi> and <hi>Glory,</hi> the <hi>Kingdom</hi> prepared from all eternity, (yet, not <hi>immediately</hi> upon the ac<g ref="char:EOLhyphen"/>compt of their <hi>mercifulneſs,</hi> but as this is the fruit or evidence of the truth of <hi>Faith,</hi> for that indeed is the <hi>grace</hi> which hath this <hi>immediate influence</hi> upon <hi>future bleſſedneſs.</hi>)</p>
+            <p>Having thus run over the Doctrinal <hi>part,</hi> I now come to make ſome <hi>practical improvement</hi> of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> And firſt by way of <hi>Inference:</hi> If the <hi>merciful</hi> be <hi>bleſſed,</hi> what are then the <hi>unmerciful</hi> and <hi>uncharitable?</hi>
+               <note place="margin">Qui proximo miſericordiam oſtendere recu<g ref="char:EOLhyphen"/>ſat, praeter iram &amp; per<g ref="char:EOLhyphen"/>petuam indig<g ref="char:EOLhyphen"/>nationem nihil conſequetur. <hi>Luthers</hi> Propheſie.</note> They are <hi>curſed.</hi> Such as have no compaſsion to the poor, let them ſtarve and periſh, 'Its all one to theſe <hi>hard-hearted</hi> wretches; let ſuch know there si a <hi>curſe</hi> hanging over them, and God hath <hi>no mercy</hi> for them. I fear the terror of this may reach to very many in this City, in this Nation; whom God hath bleſſed with plentiful eſtates, and they have abundance, but wherein are the poor the better for them? Either as covetous <hi>Miſers</hi> they lock up all in their Coffers, or they prodigally caſt their eſtates away in ſuperflui<g ref="char:EOLhyphen"/>ties, in <hi>gaming, building, feaſting, apparel,</hi> thouſands go out upon <hi>back</hi> and <hi>belly,</hi> not a <hi>Farthing</hi> to a poor
+<pb n="15" facs="tcp:118874:10"/>member of Chriſt. Nay,<note place="margin">Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v. 17.5. Iſai 3.15.</note> there are ſome ſo far from helping the needy, that they <hi>mock</hi> at them, or they <hi>grinde the faces of the poor,</hi> and make them the objects of their <hi>pride</hi> and <hi>cruelty,</hi> rather then of their <hi>pity</hi> and <hi>mercy.</hi> I denounce this day a <hi>woe</hi> againſt ſuch, which they ſhall never eſcape. I would have them ſeriouſly to conſider but <hi>three</hi> places of Scrip<g ref="char:EOLhyphen"/>ture. That of our Saviour,<note place="margin">Matth. 25.41 &amp;c.</note> 
+               <hi>Depart from me ye curſed into everlaſting fire, prepared for the Devil and his An<g ref="char:EOLhyphen"/>gels:</hi> Why is this dreadful ſentence pronounced? <hi>For I was an hungred, and ye gave me no meat, I was thirſty, and ye gave me no drink; naked, and ye clothed me not, &amp;c.</hi> That of <hi>James,</hi>
+               <note place="margin">Jam. 2.13.</note> 
+               <hi>He ſhall have judgement without mercy, that hath ſhewen no mercy. Judgement without mercy:</hi> in plain <hi>Engliſh,</hi> that is, Hell and con<g ref="char:EOLhyphen"/>demnation without remedy. That <hi>parable</hi> of <hi>Dives</hi> and <hi>Lazarus.</hi>
+               <note place="margin">Luke 16.</note> The rich man <hi>lived in pleaſure and fared deliciouſly every day,</hi> poor <hi>Lazarus</hi> laies under the Table and he is not minded; well, ſee what comes on't; <hi>Father Abraham have mercy upon me, and ſend Lazarus that he may dip the tip of his finger in water and coole my tongue, for I am tormented in this flame.</hi> The <hi>rich</hi> man is now the <hi>beggar,</hi> and what doth he begge for? But a very ſmall thing, but a <hi>drop</hi> of <hi>water,</hi> and yet that is deny'd him. He had ſtopp'd his eares to the cries and teares and groanes of poor <hi>Lazarus,</hi> and now in his torments the eares of God are ſtopp'd to his roarings.<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Vid Plura in Chryſ. T. <hi>6.</hi> Hom. <hi>63.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Baſil.</note> Had <hi>Lazarus</hi> had more of <hi>Dives</hi> his mercy, <hi>Dives</hi> had had more of Gods mercy. Oh! that unmercifull men would tremble at theſe things, what will the <hi>hoording</hi> up of their mony be, to the loſſe of Gods Love, the forfeiting of mercy, the barring up of the door of grace, and
+<pb n="16" facs="tcp:118874:11"/>the undoing of their ſoules to all eternity.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> The main Vſe ſhall be for <hi>exhortation,</hi> and here let me preſſe this <hi>Mercy</hi> upon you. 'Twas ſaid of <hi>Chryſoſtome</hi> that he was, <hi>A Preacher of Almes, the poor mans Preacher,</hi> (and indeed how many <hi>Homilies</hi> hath he wrote upon this ſubject, and how doth he inforce and urge <hi>charity</hi> in all his writings.) I deſire this day according to my ſlender abilitys to be ſo too. Never had we more need to preſſe men to acts of Charity, then in this <hi>Iron age</hi> upon which we are caſt;<note place="margin">Matth. 24.12.</note> wherein <hi>love</hi> is grown ſo <hi>cold;</hi> we live in <hi>hard</hi> times and generally we have <hi>hard</hi> harts; The times are hard, trading is low, loſſes are great, burdens are high, many familes ruined by the late wars, and mens harts are hard too; Mercy to the poor runs very low. Our <hi>Fore-fathers</hi> that lived be<g ref="char:EOLhyphen"/>fore us, how bountifull and charitable were they; we have ſtanding monuments of it in <hi>Colledges,</hi> in <hi>Hoſpitalls,</hi> &amp;c. And we have cauſe to bleſſe God for them, for though they are dead and gone we reap the benefit of their good workes; Many <hi>bellies</hi> that otherwiſe would <hi>Starve</hi> are <hi>filled</hi> by them, many <hi>backs</hi> that otherwiſe would be <hi>naked</hi> are <hi>clothed</hi> by them, many <hi>children</hi> that otherwiſe would be loſt are comfortably <hi>educated</hi> upon that proviſion which they have left; But now we may complaine with the Prophet;<note place="margin">Iſai. 57.1.</note> 
+               <hi>Merciful men are taken away.</hi> In our times we are ſo farre from erecting ſuch monuments of mercy, that we are rather for the pulling down of theſe, as being <hi>Popiſh,</hi> unneceſſary, and I know not what. And they that do not go ſo far in this <hi>horrid inhumanity</hi> to take away what is given, yet they will out of their fullneſſe adde nothing for the fur<g ref="char:EOLhyphen"/>ther
+<pb n="17" facs="tcp:118874:11"/>promoting of the works of charity. I might very much inlarge in the bewailing of the decay of mercy, and the <hi>cloſe-fistedneſs</hi> of men in theſe times when we gather for the poor, are not our <hi>Baſons</hi> empty? Have we not many members in our Con<g ref="char:EOLhyphen"/>gregations very low, and the rich regard them not. Are there not many godly families that want bread and have no ſupplies from our plenty? Do we re<g ref="char:EOLhyphen"/>lieve the diſtreſſed widdowes, and fatherleſſe? Oh that I might prevail with you this day, to be more merciful, to <hi>broach</hi> the <hi>veſſel</hi> as it were, that charity to the poor might have a vent. To many of you I may ſay as <hi>Paul</hi> doth in the like caſe,<note place="margin">2 Cor. 9.2.</note> 
+               <hi>Touching mi<g ref="char:EOLhyphen"/>niſtring to the Saints, it is ſuperfluous for me to write to you, for I know the forwardneſs of your mindes;</hi> but ſuch are very rare.</p>
+            <p>I will divide my diſcourſe into three Heads.</p>
+            <list>
+               <item>1. <hi>I will ſpeak to them that are rich.</hi>
+               </item>
+               <item>2. <hi>To you the Right Honorable Magiſtrates of this City.</hi>
+               </item>
+               <item>3. <hi>To you the worthy Governours of the Hoſpitals.</hi>
+               </item>
+            </list>
+            <p>Firſt, I begin with you that are <hi>Rich.</hi> I believe I ſpeak to many ſuch, and I wiſh I ſpoke to more, that al the rich Men of the <hi>City</hi> were preſent to hear what I ſhall ſay. God hath bleſſed you with much in this world, be ye <hi>merciful</hi> to the poor. The <hi>Jewes</hi> have a Proverb, That mercy is ſuch an excellent duty,<note place="margin">Si etiam gla<g ref="char:EOLhyphen"/>dius acut us ap<g ref="char:EOLhyphen"/>poſitus eſſet collo hominis non tamen da<g ref="char:EOLhyphen"/>bet ceſſare à miſerico, dia. <hi>Buxtorf.</hi> Flo<g ref="char:EOLhyphen"/>rileg. Hebrai<g ref="char:EOLhyphen"/>cum. p. <hi>193.</hi>
+               </note> 
+               <hi>that if a ſword ſhoud be ſet to the throat of a man, that muſt not deter him from mercy.</hi> This is the duty that I am to charge upon you; I ſay <hi>charge</hi> upon you; do not miſ<g ref="char:EOLhyphen"/>take me; I do not come to deſire this of you as a <hi>cour<g ref="char:EOLhyphen"/>teſie,</hi> I do not beg this of you as a <hi>favor,</hi> but in the <hi>name</hi> and authority of Chriſt I command and <hi>charge</hi> you to be good and bountiful to the poor. So the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="18" facs="tcp:118874:12"/>bids us,<note place="margin">1 Tim. 5.17, 18.</note> 
+               <hi>Charge them that are rich in this world.</hi> Charge them? What or wherein? <hi>That they do good, that they he rich in good works, ready to diſtribute, wil<g ref="char:EOLhyphen"/>ling to communicate.</hi> 'Its a notable place for rich men,<note place="margin">Prov. 5.15, 16.</note> that of <hi>Salomon, Drink waters out of thine own Ciſtern, and running waters out of thine own Chanel. Let thy Fountains be diſperſed abroad, and rivers of waters in thy ſtreets.</hi> Two things here are ſet before you. <hi>Drink waters out of thine own Ciſtern,</hi> (that is; enjoy the com<g ref="char:EOLhyphen"/>forts wherewith God hath bleſſed you; there are ſome that are <hi>Inopes in copiâ,</hi> ſome as the <hi>Poet</hi> ſpeaks, — <hi>Quêis non conceditur uti:</hi> In all their <hi>fulneſs</hi> they are in <hi>ſtraights,</hi>
+               <note place="margin">Job 20.22.</note> not enjoying what they have, grudg<g ref="char:EOLhyphen"/>ing to themſelves every thing; they will want any thing rather then part with a penny for it, <hi>hide-bound</hi> miſerable men, who are not only unmerciful to o<g ref="char:EOLhyphen"/>thers, but even to themſelves; theſe do not ſo much poſſeſſe their wealth, as their wealth poſſeſſes them: here is <hi>Money</hi> without a <hi>Man,</hi>
+               <note place="margin">Ego malo vi<g ref="char:EOLhyphen"/>rum qui pecu<g ref="char:EOLhyphen"/>niâ ege at, quam pecuniam quae viro. <hi>Themiſt.</hi> in <hi>Tully</hi> l. <hi>2.</hi> de <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffio. <hi>Eccl 5.18, 19.</hi>
+               </note> (as the <hi>Oratour</hi> ex<g ref="char:EOLhyphen"/>preſſes it:) There is often a <hi>Man without Money,</hi> and ſometimes <hi>Money without a Man,</hi> that is, there is wealth enough but there is no heart to take the com<g ref="char:EOLhyphen"/>fort of it. Now ſaies the <hi>Wiſeman, Drink waters out of your own Ciſterns,</hi> take the ſweetneſs of what you have; <hi>for it is good and comely for a man to eat and to drink, and to enjoy the good of all his labour that he taketh under the Sun all the dayes of his life, which God giveth him; for it is his portion, Every man alſo to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoyce in his labour; this is the gift of God.</hi>
+            </p>
+            <p>But then he goes on; <hi>Let thy Fountains be diſperſed abroad, &amp;c.</hi> Injoy what you have, but do not engroſs
+<pb n="19" facs="tcp:118874:12"/>all to your ſelves; make the beſt of your comforts, but then communicate of them unto others.<note place="margin">Deut. 15.11.</note> 
+               <hi>The poor ſhall never ceaſe out of the Land, therefore I com<g ref="char:EOLhyphen"/>mand thee, ſaying, Thou ſhalt open thine hand wide unto thy brother, to thy poor and to thy needy in the Land.</hi>
+            </p>
+            <p>I will endeavour to ſet this home by ſeveral <hi>Con<g ref="char:EOLhyphen"/>ſiderations.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> As firſt, <hi>All is nothing without mercy:</hi> you may pretend to <hi>grace, grace</hi> is nothing without mercy. <hi>Knowledge</hi> without charity,<note place="margin">Rom. 2.20. James 3.17.</note> 'tis but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a form of knowledge; That wiſdom which is from above, is firſt pure, &amp;c. full of mercy and good fruits:</hi> True ſaving heavenly knowledge doth alwayes work <hi>purity</hi> towards God, &amp; <hi>charity</hi> towards Man. With<g ref="char:EOLhyphen"/>out mercy your <hi>love</hi> is nothing.<note place="margin">1 John 3.17.</note> 
+               <hi>Whoſo hath this worlds good, and ſeeth his brother have need, and ſhutteth up his bowels of compaſsion from him, how dwelleth the love of God in him?</hi> That's a ſtrange contradiction indeed for a man to ſay he loves God, and yet doth not re<g ref="char:EOLhyphen"/>lieve and pitty his poor diſtreſſed brother. <hi>Faith</hi> without mercy is nothing, where there is not <hi>giving</hi> and <hi>forgiving</hi> (which two things comprehend in them all mercy) there is no faith <hi>unfeined</hi> and ſaving. <hi>What doth it profit, my brethen,</hi>
+               <note place="margin">1 Tim. 1.5. Jam. 2 14, &amp;c. <hi>Mors fidei eſt ſeparatio cha<g ref="char:EOLhyphen"/>ritatis.</hi> Ber<g ref="char:EOLhyphen"/>nard.</note> 
+               <hi>though a man ſay he hath faith, and have not works? can faith ſave him? If a Bro<g ref="char:EOLhyphen"/>ther or Siſter be naked and deſtitute of daily food, and one of you ſay, Depart in peace, &amp;c. what doth it profit? Even ſo faith if it hath not works is dead being alone.</hi> A <hi>wordy charity</hi> doth no good to <hi>others,</hi> and a <hi>barren</hi> merci<g ref="char:EOLhyphen"/>leſſe <hi>faith</hi> doth no good to our <hi>ſelves.</hi> The Papiſts ſay we are <hi>Solifidians,</hi> they may as well ſay we are <hi>Nullifidians;</hi> for <hi>Solifidians</hi> are <hi>Nullifidians.</hi> I know not what your practices are, but I am ſure our <hi>prin<g ref="char:EOLhyphen"/>ciples</hi>
+               <pb n="20" facs="tcp:118874:13"/>are not for this <hi>Solifidian</hi> way, which is ſo <hi>re<g ref="char:EOLhyphen"/>proachfully</hi> and <hi>falſely</hi> caſt upon us. All your duties are nothing without mercy;<note place="margin">Vid. Chryſoſt. Tom. <hi>6.</hi> Hom. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Iſa. 58.7, 8.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c. <hi>Baſil.</hi> l. <hi>1.</hi> Ho. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>prayer, hearing,</hi> nay <hi>faſting,</hi> all is vain without this. <hi>Is not this the Faſt that I have choſen? Is it not to deal thy bread to the hun<g ref="char:EOLhyphen"/>gry? and that thou bring the poor that are caſt out to thy houſe? when thou ſeeſt the naked, that thou cover him? and that thou hide not thy ſelf from thy own fleſh. Baſil</hi> ſpeaks of ſome with their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> un<g ref="char:EOLhyphen"/>chargeable or uncharitable religion; they faſted, they praid, but no mercy to the poor, what were they the better for all their duties? By the way; I do not wonder we have ſo much of this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, becauſe we are now for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;<note place="margin">1 Cor. 9.18,</note> they that will give nothing to a Miniſter, to whom 'tis an <hi>act</hi> of <hi>juſtice,</hi> will certainly give but lit<g ref="char:EOLhyphen"/>tle to a poor Chriſtian to whom 'tis an act of <hi>mercy.</hi> But to return: In a word, All your <hi>Religion</hi> is no<g ref="char:EOLhyphen"/>thing without charity:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Juſtin. Mart.</hi> in Coho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t; ad Graecos.</note> for <hi>Pure religion and undefi<g ref="char:EOLhyphen"/>led before God and the Father; is this to viſit the Father<g ref="char:EOLhyphen"/>leſs and the Widows in their affliction:</hi> Religion hath its <hi>upward duties, towards God;</hi> its <hi>inward duties, towards a mans ſelf;</hi> its <hi>downward duties, towards our brethren:</hi> if we come not up to theſe, all our religion is but an empty profeſſion, which will come to nothing.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Again, Be mercifull, <hi>Mercy is one of the great dutyes of the Goſpell;</hi>
+               <note place="margin">Matth. 23.23.</note> 'Tis amongſt the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the weighty matters of the Law,</hi> as <hi>Chriſt</hi> tells us. Do not ſay this is a low duty, a <hi>morall</hi> duty, we may diſpenſe with it. <hi>He hath ſhewed thee O man what is good, and what doth the Lord require of the, but to do juſtly and to love mercy, and to walke humbly with thy God?</hi> When the <hi>Phariſees</hi> were troubling themſelves
+<pb n="21" facs="tcp:118874:13"/>about <hi>ſhadowes,</hi> our Saviour brings them to this as a <hi>Subſtantiall</hi> duty,<note place="margin">Luke 11.41.</note> 
+               <hi>But rather give Almes of ſuch things as you have, and behold all things are clean unto you.</hi> What one duty is there that is more <hi>frequently com<g ref="char:EOLhyphen"/>manded,</hi> then this of mercy; and what duty is urg'd with <hi>ſweeter promiſes,</hi> with more <hi>terrible threatnings</hi> then this is?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>Mercy is very pleaſing to God. To do good and to communicate forget not,</hi>
+               <note place="margin">Heb. 13.16. Phil. 4.18.</note> 
+               <hi>for with ſuch Sacrifices God is well pleaſed. Paul</hi> tells you, 'tis <hi>an odour of aſweete ſmell, a Sacrifice acceptable, well pleaſing to God.</hi> But this hed was ſo fully and excellently amplifyed yeſ<g ref="char:EOLhyphen"/>terday by my reverend Brother, that I cannot, Ineede not adde any thing more upon it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Further therefore, conſider <hi>nothing makes religion more lovely to the world then acts of mercy;</hi> this puts a fair <hi>gloſſe</hi> upon your profeſſion, and renders it very <hi>amiable</hi> and acceptable unto all. If you <hi>pray,</hi> may be carnall men will jeer you; If you be holy, the world will hate you (but be holy for all that, Gods love is better then the worlds hatred.) But if you be mercifull and charitable, all men will honour you, and ſpeak well of you, <hi>He hath diſperſed,</hi>
+               <note place="margin">Pſal. 112.9.</note> 
+               <hi>he hath given to the poor, His horn ſhall be exalted with honour.</hi> I fear profeſſors are very wanting in this duty, they do not hereby make the wayes of God lovely as they ſhould do: What do men ſay their's one indeed heares much, profeſſes much, prayes in his family, but hee'l <hi>wrack</hi> his poor tennants as much as others, and is as uncharitable as others. This is a <hi>Scandall</hi> to the Goſpell.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly. <hi>Mercy is a debt;</hi> and therefore be merci<g ref="char:EOLhyphen"/>full; You are angry with thoſe that will not pay
+<pb n="22" facs="tcp:118874:14"/>their <hi>debts,</hi> pray do you pay <hi>yours.</hi> Mercy 'tis a <hi>debt</hi> I ſay; a debt to <hi>God,</hi> a debt <hi>to man.</hi> Are you full, give to them that want, 'tis not ſimply a <hi>gift</hi> 'tis but what you <hi>owe.</hi>
+               <note place="margin">Prov. 3.27.</note> 
+               <hi>Withhold not good from them from whom 'tis due,</hi> (Saith <hi>Salomon</hi>) what is <hi>neceſſary</hi> is your own, what is <hi>Superfluous</hi> is not. You are with all your plenty but Gods <hi>Almoners;</hi> the Almoner is not faithfull if he do not relieve the poor, he is bound to it, for what he hath from the King, is not for him<g ref="char:EOLhyphen"/>ſelf but to be laid out upon them. Why doth God give ſo much to you, not that you ſhould <hi>hoard</hi> it up, and let it lie <hi>moulding</hi> in your Cheeſts;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſ.</note> not that you ſhould lay out all upon your ſelves, much leſſe prodigally waſt it in the gratifying of your Luſts, No, God gives you ſo much that you may give out to others that want; The <hi>Jewes</hi> were wont to write upon the poor mans box, <hi>The Box of righteouſ<g ref="char:EOLhyphen"/>neſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> not onely becauſe of <hi>Gods righteouſneſſe</hi> to re<g ref="char:EOLhyphen"/>pay what is given to the poor, but in reference to <hi>our ſelves,</hi> 'tis but <hi>righteous</hi> that we who have, ſhould communicate to them that have not. Are we not intruſted with all for this very end? Are not the poor, our <hi>brethren,</hi> our fellow creatures, have we not all the ſame <hi>fleſh, Eandem cutem</hi> though not <hi>Eandem veſtem, ſhall we hide</hi> our ſelves <hi>from our own fleſh;</hi> did not he that <hi>made them make us?</hi> Is not all the diffe<g ref="char:EOLhyphen"/>rence made by God?<note place="margin">
+                  <hi>Iſai. 58 8. Job 31.15. 1 Cor. 4.7.</hi> Indignum cre<g ref="char:EOLhyphen"/>dens ab homi<g ref="char:EOLhyphen"/>ne peti quod Dii dediſſent. <hi>Plin.</hi> in Pa<g ref="char:EOLhyphen"/>neg, ad Traj.</note> In <hi>temporalls</hi> as well as in <hi>Spiritualls</hi> that is true, <hi>Who maketh thee to differ from another? And what haſt thou that thou didſt not receive?</hi> And if ſo, 'tis but righteous that we ſhould ſupply them in their neceſſities. <hi>Pliny</hi> relates of <hi>Trajane</hi> the <hi>Emperour,</hi> that he thought it an unworthy thing, that <hi>any ſhould ſo much as ask him that which the Gods had ſo
+<pb n="23" facs="tcp:118874:14"/>freely given him.</hi> Oh let not us be baſe and niggardly to our brethren, when all is ſo freely given us by God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, <hi>Be mercifull and the poor will requite you:</hi> How? <hi>Silver and Gold they have none,</hi>
+               <note place="margin">Acts 3.6.</note> 
+               <hi>but Such as they have</hi> they will give you, they will <hi>pray</hi> for you, and that is better then any other requitall whatever. If you Miniſter to them in your <hi>Temporalls,</hi> they will miniſter to you in their <hi>Spiritualls;</hi> I ſpeake here of thoſe, that are <hi>Godly.</hi> There are many poor chriſti<g ref="char:EOLhyphen"/>ans that never go to God, but they ſay, <hi>Lord</hi> bleſſe ſuch a man, ſuch a woman, bleſſe them and theirs for they are very good to me.<note place="margin">2 Tim. 1.16.</note> 
+               <hi>The Lord give mercy unto the houſe of Oneſiphorus, for he oft refreſhed me.</hi> The Churliſh <hi>Nabal,</hi>
+               <note place="margin">Deutr. 15.9.</note> the prayers of the poor are againſt ſuch a one; and that's a ſad thing. <hi>Beware leſt thin eye be evill againſt thy poor brother, and thou giveſt him not, and he cry unto the Lord againſt thee.</hi> How can that man proſper, that hath the people of God praying <hi>againſt him;</hi> how can that man do otherwiſe then well, who hath the people of God praying <hi>for him.</hi>
+               <note place="margin">Noli deſpicers inopem qui cum ſibi pauper ſit, facere te divi<g ref="char:EOLhyphen"/>tem potest. <hi>Ca<g ref="char:EOLhyphen"/>ſar.</hi>
+               </note> 
+               <hi>Of all Enemyes a praying Enemy is the worſt Enemy, and of all friends a praying friend is the beſt friend.</hi> Do not (ſaith an <hi>Antient Father</hi>) deſpiſe him, who though he be <hi>poor,</hi> himſelf yet can by his <hi>prayers</hi> make thee <hi>rich.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Again, <hi>What you do to the poor you do to Chriſt.</hi> If Chriſt was on earth again, would you not ſhew love to him? Saith Chriſt,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ch<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Matth. 26.11. Matth. 25 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>The poor you have always with you;</hi> and what you do to them you do to me, I take all that, and put it upon my ſcore, 'tis all done to my ſelf. <hi>Verily I ſay unto you, in as much as yee have done it, unto one of the leaſt of theſe my brethren, you have done it unto me.</hi>
+            </p>
+            <pb n="24" facs="tcp:118874:15"/>
+            <p>I might adde many <hi>conſiderations</hi> more, to quicken you to the duty.<note place="margin">Exod, 34.6, 7. <hi>Et paſſim.</hi> Luke 6.36.</note> As the <hi>Nature and example of God?</hi> He is <hi>mercifull, rich in mercy, full of compaſſion, abun<g ref="char:EOLhyphen"/>dant in goodneſſe. Be yee therefore mercifull, as your Father alſo is mercifull.</hi> Doth not this mercy of God runne out upon you in broad ſtreames? Doth he clothe you, can you ſee a poor creature naked, and do nothing for him? Hath he <hi>elected</hi> you to life, given you the pardon of ſin, will you grudge to give a peece of bread, your <hi>meane</hi> and ſcant mercy who are made partakers of ſo <hi>high</hi> and <hi>glorious</hi> mercy? <hi>Put on</hi> (ſaith the Apoſtle) <hi>as the Elect of God,</hi>
+               <note place="margin">Col. 3.12.</note> 
+               <hi>bowells of mercy,</hi> what ever others are, the <hi>elect</hi> of God muſt be mercifull; <hi>Gods love is a ſtrong incentive to ours;</hi> Bid God pitty us in our <hi>blood,</hi> we muſt cer<g ref="char:EOLhyphen"/>tainely pitty our brother in his <hi>Teares?</hi>
+            </p>
+            <p>Charity to the poor 'tis your <hi>bill</hi> of <hi>exchange;</hi> pay down your mony here, and you ſhall receive it again in glory,<note place="margin">Fac tibi poſſeſ<g ref="char:EOLhyphen"/>ſionum terre<g ref="char:EOLhyphen"/>ſtrium Ghri<g ref="char:EOLhyphen"/>stum partici<g ref="char:EOLhyphen"/>pem, ut ille te ſibi faciat reg<g ref="char:EOLhyphen"/>norum caeleſtiu<g ref="char:cmbAbbrStroke">̄</g> cohaeredem. <hi>Cypr. Luke 6.38.</hi>
+               </note> not in <hi>kinde</hi> but in that which is <hi>farre better.</hi> 'Tis the <hi>beſt expreſſion</hi> of your <hi>Thankefullneſſe</hi> to God for his bleſſings to you. What neede I ſpeake more? The <hi>text</hi> is full, Be <hi>mercifull, and you ſhall obtain mercy;</hi> Mercy for your <hi>ſelves,</hi> for your <hi>children,</hi> mercy in <hi>this life</hi> mercy in the <hi>life to come; Give and it ſhall be given to you, good meaſure preſſed down, and ſhaken to gether, and running over,</hi> &amp;c.</p>
+            <p>I hope theſe Arguments will prevaile with you. For <hi>Gods</hi> ſake, for <hi>Chriſts</hi> ſake, for the <hi>Goſpells</hi> ſake, for your <hi>own</hi> ſake, as well as for your brethrens ſake, be tender and compaſſionate and charitable to them that are in diſtreſſe, you have many <hi>objects</hi> of mercy, many <hi>opportunities</hi> of doing good: Oh that you had but hearts to do good. If what I have ſpoken, do
+<pb n="25" facs="tcp:118874:15"/>not work upon you, this <hi>Sermon</hi> ſhall riſe up in judgement againſt you; and then you ſhall know God hath <hi>no mercy</hi> for you, if now you have <hi>no mercy</hi> for your Brethren.</p>
+            <p>Before I paſſe off from this <hi>
+                  <g ref="char:V">Ʋ</g>ſe,</hi> I muſt anſwer a few <hi>Objections</hi> that are in the hearts and mouthes of many againſt this duty. To reckon up all would be endleſſe; I will only pick out ſome of thoſe that are moſt common.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> Firſt, ſay ſome, we live in <hi>uncertain times,</hi>  
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>Baſil l. 1.</hi> Ho. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and all that we can get is little enough to lay up to ſecure our ſelves againſt dayes of trouble. Wars may come again, and trading may ceaſe; what will be<g ref="char:EOLhyphen"/>come of us then, if we have not a good ſtock before?</p>
+            <p>I confeſſe God hath caſt us upon <hi>dayes</hi> of <hi>diſtracti<g ref="char:EOLhyphen"/>on,</hi> and what time may produce we know not: But I ſay, the <hi>rather</hi> be charitable. <hi>Give a portion to ſeven,</hi>
+               <note place="margin">Eccleſ. 12.2.</note> 
+               <hi>and alſo to eight, for thou knoweſt not what evil ſhall be upon the earth.</hi> Would you be wiſe to provide for a time of tryal? in your proſperity remember the poor; come what will come, do thus, God will ſee you ſhall not want.<note place="margin">Luke 16.9.</note> This is to make <hi>friends of the Mammon of unrighteouſneſs;</hi> thus you make God to be your friend, and can you fear ſo long as God is your friend?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> But (alas!) <hi>We are not able:</hi>  None more willing then we, but we are not <hi>able.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <hi>Not able:</hi> Indeed you are to be pitied!  <note place="margin">ſimplexne furor ſeſtertia centu<g ref="char:cmbAbbrStroke">̄</g> Perdere et hor<g ref="char:EOLhyphen"/>renti tunicam non reddere ſervo?—<hi>Juven.</hi> Sat. l. <hi>1.</hi>
+               </note> not for the <hi>ſcantneſs</hi> of your eſtates, but the coldneſs of your charity. <hi>Not able:</hi> Take heed of ſaying ſo, leſt God make you ſo indeed. Not <hi>able:</hi> What, ſo many hundreds, it not thouſands, <hi>per annum?</hi> ſuch ſtocks, ſuch trading, ſuch purchaſing, and yet not able?
+<pb n="26" facs="tcp:118874:16"/>You can finde a <hi>thouſand pound</hi> for a purchaſe;<note place="margin">Non habet in foelix Numitor, quod mittat a<g ref="char:EOLhyphen"/>micos. Quintillae quod donet habet— <hi>Juven. Sat. 6.</hi> Vid. <hi>Bafil.</hi> Ho. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Very elegant<g ref="char:EOLhyphen"/>ly.</hi> Neceſſitates infi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atae ſunt, tribu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a ſunt gravia, fiſcalia explicare non poſſumus, &amp;c. <hi>Ambroſ. 'Ov</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chryſoſt.</hi> Habet ſemper unde det qui plenum pectus habet charitatis. <hi>Aug.</hi>
+               </note> and if we come for <hi>Twenty Shillings</hi> for a poor Chriſti<g ref="char:EOLhyphen"/>an, then, not able? Ye can throw away a great deal prodigally upon a <hi>Feaſt,</hi> a <hi>Suit,</hi> a <hi>Houſe,</hi> a <hi>Hawk,</hi> may be upon a <hi>Whore;</hi> but when it comes to a buſi<g ref="char:EOLhyphen"/>neſſe of charity, then you can pretend inability. <hi>Am<g ref="char:EOLhyphen"/>broſe</hi> ſpeaks to this; Come to ſome men, Pray give ſomething to the poor; Alas we cannot, <hi>Taxes</hi> are high, and <hi>Cuſtomes</hi> are high, we have many occaſi<g ref="char:EOLhyphen"/>ons for our money. Theſe do not conſider ſaith he, that <hi>The ſalvation of the ſoul is to be preferred before all.</hi> Away with all theſe excuſes, there's <hi>money</hi> enough in the <hi>Coffer,</hi> if there was but more <hi>charity</hi> in the <hi>heart:</hi> but the ſhort and the long on't is this, you are <hi>cove<g ref="char:EOLhyphen"/>tous</hi> and ſordid-ſpirited men.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> But we have a <hi>great charge,</hi>  and many children to provide for, and we ſhould wrong them by this bounty.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> No,  <note place="margin">Vid. Cyprian de Op. &amp; E<g ref="char:EOLhyphen"/>ſeem. <hi>fully to this Object.</hi>
+               </note> not ſo; God will bleſſe your children for your mercy, they ſhall have the more for it. Would you ſecure and improve their Portions? put ſome<g ref="char:EOLhyphen"/>thing into Gods hands for them; what ever becomes of the reſt, that ſhall be ſafe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> But this is the way <hi>to waſte and diminiſh our eſtates.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> That's falſe, <note place="margin">Eſto intrepi<g ref="char:EOLhyphen"/>dus, eſto ſecu<g ref="char:EOLhyphen"/>rus, finir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non poteſt, unde in uſus Chriſti impenditur, un<g ref="char:EOLhyphen"/>de opus caeleſte celebiatur. <hi>Cypr.</hi> de Op. &amp;c.</note> as I have ſhewn you already: No man ſhal be the poorer at the yeers end for what he laies out upon the poor; you ſhall have your mo<g ref="char:EOLhyphen"/>ney again, and improvement for it too. I have read of <hi>Tiberius</hi> the <hi>ſecond,</hi> Partner with <hi>Juſtinus</hi> in the Empire: this man was very famous for his bounty to the poor; inſomuch that his Wife was wont to blame him for it: and ſpeaking to him once how he
+<pb n="27" facs="tcp:118874:16"/>waſted his treaſure this way; he told her,<note place="margin">
+                  <hi>Cluver.</hi> Epit. P. <hi>405.</hi> Non defuturam dixit fiſco pe<g ref="char:EOLhyphen"/>cuniam, quoad ipſe ſecutus Chriſti praecep<g ref="char:EOLhyphen"/>ta, in coelo the<g ref="char:EOLhyphen"/>ſauros collige<g ref="char:EOLhyphen"/>ret, egenorum fovendo defe<g ref="char:EOLhyphen"/>ctus. Fertur de Re<g ref="char:EOLhyphen"/>ge quodam Anglo, &amp;c. <hi>Bonav.</hi> in <hi>6.</hi> Luc. <hi>Fullers</hi> Eccl. Hiſt.</note> He <hi>Should never want money, ſo long as in obedience to Chriſts com<g ref="char:EOLhyphen"/>mand he did ſupply the neceſsities of the poor.</hi> And pre<g ref="char:EOLhyphen"/>ſently ſee how Providence ordered it; immediately after he had given much in this way, <hi>Vnder a Mar<g ref="char:EOLhyphen"/>ble Table which was taken up, there he found a great trea<g ref="char:EOLhyphen"/>ſure, and newes was brought him too of the death of one Narſes, a very rich man, who had given all unto him.</hi> Shall I tell you a fine <hi>Popiſh</hi> ſtory, which <hi>Bonaven<g ref="char:EOLhyphen"/>ture</hi> relates more generally, but you have it particu<g ref="char:EOLhyphen"/>larly and fully ſet down in a <hi>late Writer</hi> of our own. King <hi>Oſwald</hi> ſitting in his Palace on <hi>Eaſter</hi> day, and being at dinner, with a <hi>Biſhop</hi> with him, he was told, that there were many poor waiting at his <hi>Palace-Gates:</hi> Upon this he commands all his meat from his Table to be carried to them, and a great ſilver Charger to be broken in pieces, and given to them. The <hi>Biſhop</hi> laying hold on the <hi>Kings</hi> hand, ſaies thus, <hi>May this hand never be conſumed:</hi> And, ſay the <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi> (believe them if you will) ſo it fell out; for the <hi>Corpſe</hi> of this <hi>King</hi> being long after taken up, when all his other parts were conſumed,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Chryſoſt.</note> his <hi>hand</hi> was as <hi>found</hi> as ever. I judge this to be one of their Fa<g ref="char:EOLhyphen"/>bles: but my Application is true; Sure I am, that eſtate ſhall never <hi>wither</hi> that is improved in wayes of charity to the poor. But, I refer you to what was laid down in the Doctrinal part.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>5</label> The laſt <hi>ſhift</hi> is this. We will do thus and thus <hi>when we dye:</hi> then wee'l build <hi>Hoſpitals,</hi> and then wee'l give ſuch Legacies to the poor. But pray let us alone till then.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label>
+               <hi>Then dye as ſoon as you will, and the ſooner the better;</hi> if you'l do no good in your life-time we have then
+<pb n="28" facs="tcp:118874:17"/>more reaſon to pray for your <hi>death,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Baſil.</note> then for your <hi>life.</hi> But is it not better to be like the <hi>Tree,</hi> that <hi>ſtands</hi> and yet yeelds fruit; Is it not better to be like the <hi>Sheep</hi> that do good whilſt they live, rather then like the <hi>Swine,</hi> that are good for nothing till they dye? Is it not better fot you now to beſtow your charity, when you your ſelves may ſee it running in the <hi>right channell,</hi> then to ſtay till you be dead, when perhaps the <hi>Executors</hi> may be nothing but the <hi>Executioners</hi> of your wills. But the Truth is, <hi>we look but for little from you; Pliny</hi> ſpeakes of a <hi>Tree,</hi> the <hi>Leaf</hi> whereof was as big as a Target, but the <hi>fruit</hi> no bigger then a Bean. And ſuch a buſineſſe is <hi>death-bed</hi>-charity, They that will do great things then, it often falls out, they do nothing at all, (or as good as nothing at all.)</p>
+            <p>And ſo much for the <hi>objections</hi> alſo.</p>
+            <p>I hope you are now brought to ask me this queſ<g ref="char:EOLhyphen"/>tion, wherein would you have us to expreſſe this mercy, or <hi>what object will you direct us to for our charity?</hi> If ſo, let me tell you, here are famous objects before you this day, the famous <hi>Hoſpitalls</hi> of this <hi>Citty,</hi> the <hi>Corporation</hi> for the poor. Here your charity is <hi>needed,</hi> here it will be readily <hi>received,</hi> and here it will be faithfully improved. Here you ſee the high charity of them that lived before you; Here you have foun<g ref="char:EOLhyphen"/>dations not to be parrallel'd in the whole world,<note place="margin">
+                  <hi>Vid.</hi> Aquin. 1<hi>a.</hi> 2<hi>ae.</hi>
+               </note> 
+               <hi>Cajetanes Mons pietatis</hi> is but a <hi>Mol-hill</hi> to what you have here; For ſhame, when your <hi>Fore-Fathers</hi> have done ſo much, do not you hold in your hands and do nothing at all, Theſe great <hi>lamps</hi> call for a great deale of <hi>oyle;</hi> our miſery is. The Lamp grows grea<g ref="char:EOLhyphen"/>ter, and the oyle doth not increaſe with it. We
+<pb n="29" facs="tcp:118874:17"/>need go no farther then to theſe <hi>Foundations</hi> to prove the <hi>decay</hi> of charity.<note place="margin">Dr. <hi>Hackwels</hi> Apolog. for Provid.</note> A <hi>learned</hi> man writes a book to prove there is no <hi>decay</hi> in <hi>Nature,</hi> but who can deny but that there is a <hi>decay</hi> in <hi>Charity?</hi> Men before us had enough of it to <hi>build,</hi> and we have ſcarce charity enough to <hi>ſupport</hi> that with a <hi>little</hi> coſt, which they <hi>erected</hi> with vaſt treaſures.</p>
+            <p>One tells us it was the uſe of the <hi>Roman Cenſors</hi> once a yeer to call the <hi>Cittyzens</hi> before them,<note place="margin">
+                  <hi>M.</hi> Rogers <hi>good Sama<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it.</hi> p. 80.</note> to take an acount how the lawes were obſerved in all their <hi>Provinces.</hi> A <hi>meſſenger</hi> being commanded to call the <hi>Good-men</hi> before them, he goes to the <hi>Tombes</hi> of thoſe who in their Life time was moſt renowned; and calls them by their names, ſummoning them to appeare before the <hi>Cenſors;</hi> Being reproved for ſo doing, he anſwered, ſickeneſſe and age had worn out all the <hi>Good-men</hi> of the Citty, and there was none left that was worthy of that name. The <hi>Ap<g ref="char:EOLhyphen"/>plication</hi> is too obvious; ſhould I be commanded to call in ſome <hi>charitable</hi> men before you, I muſt go to the Graves of our old Benefactors, for truly in our dayes there are very few ſuch to be found amongſt us. I ſpeak this to your ſhame; and therefore you rich <hi>Cittyzens</hi> and others, go home and open your purſes, and ſend in ſomething to theſe <hi>Mercifull plantations,</hi> of which you ſee there is ſo much fruit reaped.</p>
+            <p>I have pitched upon this becauſe of the <hi>day;</hi> I might inſtance in other objects, but I muſt contract. I have ſpoken to you as <hi>rich</hi> men: Be mercifull;<note place="margin">Munetarius pauperum, &amp; egentium can<g ref="char:EOLhyphen"/>didatus ſic fe<g ref="char:EOLhyphen"/>stinet ad coe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:cmbAbbrStroke">̄</g>, <hi>Hieron.</hi>
+               </note> In the practice of this duty go on towards glory, you ſhall not be the <hi>worſe</hi> on earth, you ſhall be in<g ref="char:EOLhyphen"/>finitely the <hi>better</hi> in Heaven, for what you do to the
+<pb n="30" facs="tcp:118874:18"/>poor.<note place="margin">2 Cor. 9.8, 10, 11.</note> Ile conclude this head with that of the <hi>Apoſtle,</hi> where he is treating upon the ſame Argument; <hi>And God is able to make all grace abound towards you, that yee allwayes having all ſufficiency in all things, may abound to every good worke. (As it is written he hath diſperſed abroad, he hath given to the poor, his righteouſ<g ref="char:EOLhyphen"/>neſſe remaineth for ever. Now he that miniſtreth ſeed to the ſower, both miniſter bread for your food, and multi<g ref="char:EOLhyphen"/>ply your ſeed ſown, and increaſe the fruit of your righteouſ<g ref="char:EOLhyphen"/>neſſe.) Being inriched in every thing to all bountifullneſs, which cauſeth thorough us thankeſgiving to God.</hi> And take that <hi>other place</hi> too,<note place="margin">1 Tim. 6.17, 18, 19.</note> in another <hi>Epiſtle, Charge them that are rich in this world,</hi> &amp;c. <hi>That they do good, that they be rich in good workes, ready to diſtribute, willing to communicate; Laying up in ſtore for themſelves a good foundation againſt the time to come, that they may lay hold on eternall life.</hi>
+            </p>
+            <p>
+               <note place="margin">Branch of the Uſe.</note>I ſhall now addreſs my ſelf to you, the <hi>Right Honourable Magiſtrates of this famous Citty.</hi> And give me leave to preſſe the duty in hand upon you, <hi>Be yee mercifull</hi> and <hi>very</hi> mercifull. I beg mercy of you not onely as you are <hi>rich</hi> men, but as you are <hi>Magiſtrates;</hi> you muſt not onely <hi>open</hi> the <hi>purſe,</hi> but alſo <hi>improve</hi> your <hi>power</hi> in a way of mercy. Do not miſtake me, I do not deſire mercy of you for the <hi>guilty,</hi> but for the <hi>needy.</hi> I would not have you to <hi>blunt</hi> the ſword of <hi>juſtice,</hi> or to abate your <hi>ſeverity,</hi> in the punniſhment of ſin and offenders, for here 'tis<note n="*" place="margin">Auguſt. Veniam pre<g ref="char:EOLhyphen"/>ſtare illicitis, non eſt miſeri<g ref="char:EOLhyphen"/>cordiam prae<g ref="char:EOLhyphen"/>ſtare, ſed ju<g ref="char:EOLhyphen"/>stitiam miſe<g ref="char:EOLhyphen"/>ricordia non tenere. <hi>Hilar.</hi>
+               </note> 
+               <hi>Miſericordia puniens &amp; crudelitas parcens.</hi> Ther's abundance of ſin amongſt us, which certainely the <hi>Magiſtrate</hi> is to <hi>punniſh, Theft, Drunkenneſſe, A<g ref="char:EOLhyphen"/>dultery, prophanation of the Lords day;</hi> Go on I beſeech you, and let thoſe who are guilty of theſe abomina<g ref="char:EOLhyphen"/>tions
+<pb n="31" facs="tcp:118874:18"/>finde no mercy from you:<note place="margin">Omnes homini<g ref="char:EOLhyphen"/>nes qui de re<g ref="char:EOLhyphen"/>bus magnis acturi ſunt, ab ira &amp; miſeri<g ref="char:EOLhyphen"/>cordiâ oporiet eſſe va <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Cato</hi> in Sal<g ref="char:EOLhyphen"/>luſt. <hi>Job 29.15. Pſal. 82.3, 4. Iob 29.12.</hi>
+               </note> And when you are upon the <hi>Bench</hi> in <hi>capital</hi> matters, and notorious ſins know no mercy, but only to puniſh. All that here I ask of you is, that you would be merciful to the poor; that you would be <hi>eyes to the blinde,</hi> and <hi>feet to the lame;</hi> that you would <hi>judge the cauſe of the nee<g ref="char:EOLhyphen"/>dy,</hi> &amp; <hi>defend the poor and the fatherleſs,</hi> and ſtand up in the gate for them that <hi>have none to help them.</hi> Take heed of <hi>oppreſsing</hi> the poor, and of diſcountenancing the poor mans cauſe, when ever it comes before you. Many <hi>Widows</hi> and <hi>Orphans</hi> depend upon you; to be faithful to your truſt in reference to them, will be a high act of mercifulneſſe.<note place="margin">Exod. 22.22, 23, 24.</note> 
+               <hi>Ye ſhall not afflict any Wi<g ref="char:EOLhyphen"/>dow or fatherleſs childe. If thou afflict them in any wiſe, and they cry at all unto me, I will ſurely hear their cry; and my wrath ſhall wax hot and I will kill you with the ſword, and your wives ſhall be widdowes, and your children Fatherleſſe.</hi> God doth in a <hi>ſpeciall</hi> manner intereſt himſelfe in the concernements of the <hi>widdows</hi> and <hi>Fatherleſſe,</hi> and they that wrong them, he will cer<g ref="char:EOLhyphen"/>tainely meet with, in ſome remarkeable judgement, either upon <hi>themſelves</hi> or upon their <hi>poſterity.</hi> But as for you, I bleſſe God, and rejoyce in it, I may here<g ref="char:EOLhyphen"/>in ſpeak to your <hi>commendation</hi> for your great care and fidelity in this buſineſſe; yet I hope you will pardon me for hinting this to you as an eminent peece of Mercy. I could lay before you other ex<g ref="char:EOLhyphen"/>cellent <hi>Channells</hi> for your mercy to run in, but I will not be either too <hi>bold,</hi> or too <hi>tedious.</hi>
+            </p>
+            <p>
+               <note place="margin">3 Branch of the Uſe.</note>But a word to you the <hi>Worſhipfull Governours</hi> of the ſeverall <hi>Hoſpitalls,</hi> and the <hi>Truſtees</hi> in theſe <hi>Corpo<g ref="char:EOLhyphen"/>rations</hi> of Charity, and I have done with this <hi>Vſe.</hi> As you are to improve and to receive the mercy of
+<pb n="32" facs="tcp:118874:19"/>others, ſo you are to <hi>put forth</hi> your own mercy. Shall I exhort you to be <hi>honeſt</hi> and <hi>faithfull</hi> in your truſt? I need not, your <hi>integrity</hi> is abundantly known herein. To rob the <hi>Hoſpitall</hi> is an unpardonable <hi>theft,</hi> the ſtones in the walls ſhall cry out againſt ſuch; but who is there that knowes you, and doth not alſo know that you deteſt a thing ſo baſe as this is.</p>
+            <p>There are but two things that I ſhall ſay to you.</p>
+            <p>Firſt, <hi>Grudge not your pains in acts of mercy.</hi> I ſup<g ref="char:EOLhyphen"/>poſe attendance upon your truſt may coſt you much time, and much paines, and take you off from your own occaſions, and be to your own private pre<g ref="char:EOLhyphen"/>judice, but go on and be diligent in ſo good a work; the <hi>bleſsing</hi> of the poor will be upon you,<note place="margin">Job 29.13.</note> the <hi>bleſsing</hi> of the <hi>God</hi> of the poor will be upon you; your <hi>pains</hi> are full of <hi>mercy,</hi> and your <hi>mercy</hi> ſhall be full of <hi>profit.</hi> How can you be imployed better, then about the lives and livelihoods of thouſands that do wholly depend upon you?</p>
+            <p>And Secondly, let me ſay this to you, that others may be encouraged to theſe noble acts of charity; <hi>Be careful in all things to keep punctually to the wils of thoſe who are Donors and Benefactors.</hi> What a <hi>barbarous</hi> thing is it to <hi>infringe</hi> the <hi>wills</hi> of them that are dead? And beſides that, how hath the charity of ſome men been <hi>damm'd</hi> up in theſe times, upon this very cauſe, that we are ſo bold in ſtreining, and perverting, and flatly contradicting the wills of the deceaſed? I could give you inſtances, but I forbear.</p>
+            <p>I have been very long you ſee in this <hi>Vſe</hi> of <hi>Exhor<g ref="char:EOLhyphen"/>tation:</hi> there are <hi>one</hi> or <hi>two</hi> more yet behinde, which I will diſpach very briefly, and ſo conclude.</p>
+            <p>The <hi>third Uſe</hi> is for direction: And here I will give
+<pb n="33" facs="tcp:118874:19"/>you ſome ſhort <hi>Rules,</hi> for the guiding of you in the practice of this duty of <hi>mercy.</hi>
+            </p>
+            <p>The <hi>firſt Rule</hi> is this, <hi>Give that to the poor,</hi> which <hi>is honeſtly gotten:</hi> Do not bring to God <hi>Holocauſtum exrapinâ. Quaerit Deus dona non ſpolia</hi> (ſaies <hi>Ambroſe.</hi>) 'Twas a notable <hi>ſpeech</hi> of <hi>Selimus</hi> to one of his <hi>Baſſa's,</hi>
+               <note place="margin">Dr. <hi>Harris</hi> upon the Beat. <hi>p. 179.</hi>
+               </note> who exhorting him to do ſomething in a way of cha<g ref="char:EOLhyphen"/>rity, to erect <hi>Hoſpitals</hi> out of the eſtates of the <hi>Perſian</hi> Merchants, wrongfully taken from them: <hi>Selymus</hi> anſwers thus;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c</hi> Chry<g ref="char:EOLhyphen"/>ſoſt.</note> 
+               <hi>Wouldſt thou that I ſhould beſtow other mens goods wrongfully taken from them, upon works of cha<g ref="char:EOLhyphen"/>rity and devotion? aſſuredly I will never do it, nay rather ſee they be again reſtored to the right owners.</hi> This <hi>Turk</hi> is a ſhame to many Chriſtians; they will get eſtates <hi>Per fas &amp; nefas,</hi> they care not how; and then they quiet their conſciences with this, They will ſet up ſome Monument of their charity, out of their <hi>unjuſt</hi> and <hi>oppreſsive</hi> gaines. This may be for the <hi>good</hi> of <hi>others,</hi> but themſelves ſhall never be the <hi>better</hi> for it. <hi>Zaccheus gives half of his goods to the poor,</hi>
+               <note place="margin">Luke 19.8.</note> 
+               <hi>and if he had wrong'd any he makes reſtitution.</hi> This is an excellent pattern for your <hi>imitation;</hi> be <hi>merciful</hi> to them that <hi>want,</hi> but then be <hi>juſt</hi> to them that you have <hi>wrong'd;</hi>
+               <note place="margin">Non reminitur peccatum, niſi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> reſtituatur ab<g ref="char:EOLhyphen"/>latum. <hi>Aug.</hi>
+               </note> remembring alwayes that of <hi>Auſtine, No reſtitution, no remiſsion.</hi> Bring not a <hi>gift</hi> to God, the foundation of which was laid in thy brothers <hi>tears:</hi> Give that which <hi>is your own;</hi> firſt be <hi>honeſt,</hi> and then <hi>bountiful.</hi>
+            </p>
+            <p>Secondly,<note place="margin">2 <hi>Rule.</hi> Pſal. 112.5.</note> 
+               <hi>Let your charity be ordered with conſcience and diſcretion. A good man ſheweth favour, and lendeth, he will guide his affairs with diſcretion.</hi> This wiſdom and conſcience lies chiefly in the right <hi>objecting</hi> of your mercy. <hi>Take the pooreſt, take the beſt,</hi> and make
+<pb n="34" facs="tcp:118874:20"/>them the <hi>objects</hi> of your pitty. I ſay, <hi>the pooreſt,</hi> thoſe that are in the greateſt neceſſity, in the firſt place re<g ref="char:EOLhyphen"/>lieve them.<note place="margin">Donant iis qui maximè donare poſſunt, hi viſ<g ref="char:EOLhyphen"/>catis hamatiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> muneribus non ſua pronunt, ſed aliena cor<g ref="char:EOLhyphen"/>ripiunt. <hi>Plin.</hi> Ep. l. <hi>9.</hi>
+               </note> Some will <hi>give that they may receive, this is complementing:</hi> ſome will give to thoſe that can make a good ſhift in the world, and neglect thoſe that are ready to ſtarve, <hi>this is indiſcretion.</hi> And then I ſay give to the <hi>beſt;</hi> ſome are very unblameable in their converſation, painful in their callings, modeſt in their behaviour, ſuch as are aſhamed to make known their wants, and yet God keeps them very low: oh be merciful to ſuch; but eſpecially do you ſee any that <hi>fear</hi> God, be ſure you ſhew mercy to them.<note place="margin">Gal. 6.10.</note> 
+               <hi>As we have therefore opportunity, let us do good to all men; eſpecially unto them, who are of the houſhold of Faith.</hi> Here your charity will be moſt <hi>acceptable</hi> to God, and moſt <hi>profitable</hi> to your ſelves; for ſuch will requite you with their prayers, not only with a com<g ref="char:EOLhyphen"/>mon outward <hi>God bleſs you,</hi> but their very ſouls will go out to God for you.</p>
+            <p>Thirdly,<note place="margin">3 <hi>Rule.</hi>
+               </note> 
+               <hi>Do not limit your ſelves too much in Mercy.</hi> Let it be <hi>full</hi> and <hi>large</hi> and <hi>vaſt,</hi> if your <hi>abilityes</hi> will permit.<milestone type="tcpmilestone" unit="unspecified" n="1"/> Limit not your ſelves in the <hi>proportion</hi> of your mercy. You that <hi>have</hi> much, muſt <hi>give</hi> much. Your <hi>charity</hi> muſt be <hi>ſuitable</hi> to your <hi>Ability;</hi> A rich man may give much, and yet be counted by God an unmercifull man, becauſe he gives not according to what he <hi>may,</hi> and <hi>ought.</hi> Remember that of the <hi>Apoſtle,</hi>
+               <note place="margin">2 Cor 9.6.</note> 
+               <hi>He which ſoweth ſparingly ſhall reap ſparingly; and he which ſoweth bountifully ſhall reap bountifully.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Limit not you ſelves as to the <hi>continuance</hi> of Mer<g ref="char:EOLhyphen"/>cy; be <hi>conſtant</hi> in it, <hi>perſevere</hi> and hold on: As the <hi>poor</hi> will never <hi>ceaſe,</hi>
+               <note place="margin">Eccl. 11.2. Gal. 6.9. 3. Theſſ 3.13.</note> ſo your <hi>pitty</hi> muſt never <hi>ceaſe. Give a portion to ſeven and alſo to eight. Be not weary
+<pb n="35" facs="tcp:118874:20"/>in well doing, ye ſhall reape if you faint not.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Limit not your ſelves, as to the <hi>Acts</hi> of mercy; abound in all the fruits of mercy. There's mercy in <hi>giving,</hi> come up to that. There's mercy in <hi>lending,</hi> come up to that. Lend to the poor and look for no <hi>improvement; Loane ex pacto, or ex faenore</hi> to the poor, certainly that is <hi>Vſura mordax,</hi> condemned by all. There's mercy in <hi>buying</hi> of and <hi>ſelling</hi> to the poor.<note place="margin">Amos 8.4, 5.</note> Many in this Citty make the <hi>Ephah ſmall,</hi> an the <hi>Shekell great,</hi> they will buy of the poor very cheap, taking the advantage of their neceſſity, but they will ſell to them deer enough; this is ſinfull. But theſe things I do but touch upon.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Limit not your ſelves as to the <hi>Object</hi> of your mer<g ref="char:EOLhyphen"/>cy. Such a man is my <hi>enemy,</hi> ſhall I do good to him?<note place="margin">
+                  <hi>Prov. 25.21, 22.</hi> Nec ita clau<g ref="char:EOLhyphen"/>den i est res familiaris, ut eam benignitas aperire non poſſit, nec ita reſeranda ut pateat omni<g ref="char:EOLhyphen"/>bus; modus adhibeatur, iſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> referatur ad facultates. <hi>Cicer.</hi> Humanitati dandum non ipſi homini. <hi>Ariſt.</hi> Tanquam ho<g ref="char:EOLhyphen"/>mines, non tanquam ho<g ref="char:EOLhyphen"/>mini. <hi>A. Gel. p. 236. 4.</hi> Rule.</note> Yes, <hi>If thine enemy be hungry, give him bread to eat, and if he be thirſty, give him water to drink; for thou ſhalt heap coals of fire upon his head, and the Lord ſhall reward thee.</hi> But ſuch an one is an <hi>idle</hi> fellow, a <hi>common Beg<g ref="char:EOLhyphen"/>gar;</hi> ſhall I relieve him? The <hi>Ancients</hi> were ſo much for mercy, that they are very high in this point. I will not inlarge upon it: Ile only ſay this, <hi>Here do on<g ref="char:EOLhyphen"/>ly what neceſsity requires and no more;</hi> and what you give to ſuch, give as to the <hi>Nature</hi> not as to the <hi>man,</hi> or give as to the <hi>man,</hi> not as to the <hi>perſon. 'Tis eaſie to preſſe the duty of mercy, but to determine what muſt be done either as to the meaſure, or as to the object, that is difficult, and every man muſt here make the deciſion himſelf accor<g ref="char:EOLhyphen"/>ding to his own judgement and conſcience.</hi>
+            </p>
+            <p>Fourthly and laſtly: <hi>In all your mercy let there be ſin<g ref="char:EOLhyphen"/>cerity, cheerfulneſs, thankfulneſs.</hi>
+            </p>
+            <p>Firſt, be <hi>ſincere</hi> in what you do; All your mercy if it be not upon a <hi>right end,</hi> is nothing; 'Tis very
+<pb n="36" facs="tcp:118874:21"/>hard to keep <hi>mercy unſtained by Hypocriſy;</hi> many are ſeeking their <hi>own applauſe,</hi> when they ſeeme to act for <hi>their brothers good.</hi> Therefore ſaith the <hi>Apoſtle, He that giveth let him do it with ſimplicity.</hi>
+               <note place="margin">Rom. 12.8.</note> Our <hi>Saviour</hi> in this <hi>Sermon obviates</hi> the pride and hypocriſy of men in their acts of mery.<note place="margin">Mat. 6.1, &amp;c.</note> 
+               <hi>Take heede that ye do not your Almes before men to be ſeene of them; otherwiſe ye have no reward of your Father which is in Heaven.</hi> Some are like the <hi>Hen,</hi> that cannot lay an <hi>Egge</hi> but ſhe falls a <hi>cackeling;</hi> they cannot do ſomething chari<g ref="char:EOLhyphen"/>tably, but all the <hi>Pariſh,</hi> muſt know it; <hi>But thou when thou doeſt Almes, let not thy left hand know what thy right hand doth, That thine Almes my be in ſecret; and thy Father which ſeeth in ſecret, he ſhall reward thee open<g ref="char:EOLhyphen"/>ly.</hi>
+            </p>
+            <p>Secondly, what you do, do it willingly and <hi>chere<g ref="char:EOLhyphen"/>fully;</hi> Let not your mony come from you like <hi>fire</hi> out of a <hi>flint,</hi> as though it was <hi>forced</hi> from you, but let it <hi>flow out like water out of the fountain.</hi>
+               <note place="margin">2 Cor. 9.7.</note> 
+               <hi>Every man according as he purpoſeth in his Heart, ſo let him give; not grudgingly or of neceſſity, for God loveth a cheerefull giver.</hi> God <hi>commands</hi> not onely the <hi>matter,</hi> but alſo the <hi>manner</hi> of the duty;<note place="margin">Deut. 15.10.</note> 
+               <hi>Thou ſhalt ſurely give him, and thine heart ſhall not be grieved when thou giveſt unto him.</hi>
+            </p>
+            <p>Thirdly let <hi>thankefullneſſe run thorough all your mercy;</hi> Bleſſe God, you are not the begger; that you are not the needy man, that you have ſo much plenty when others are in ſo much want; I ſay be very <hi>thankefull,</hi> that you are the <hi>giver</hi> and not the <hi>receiver,</hi>
+               <note place="margin">Acts 20.35.</note> For <hi>'Tis a more bleſſed thing to give then to receive;</hi> And that providence which ſets your brother <hi>low</hi> for the <hi>drawing out</hi> of his <hi>patience,</hi> ſets you thus
+<pb n="37" facs="tcp:118874:21"/>
+               <hi>High</hi> for the drawing out of your <hi>thankefullneſſe.</hi> Be not <hi>wanton,</hi> be not <hi>diſdainfull</hi> under your fullneſſe, but rather be very <hi>humble</hi> and <hi>thankfull. Pride and unthankfullneſſe will ſoon make you as poor as others are.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>4</label> The <hi>fourth</hi> Vſe ſhall be for <hi>comfort</hi> to mercifull men. Is not the <hi>promiſe</hi> in the <hi>Text</hi> ſweet,<note place="margin">Hoſ. 10.12.</note> that is yours. Ye <hi>ſow</hi> in <hi>mercy</hi> and you ſhall <hi>reap</hi> in <hi>mercy;</hi> your bowells are inlarged to men, the bowells of God are inlarged towards you. I ſpeake to ſome I know, who do ſincerely and conſcientiouſly lay out of their plenty to the poor; if they ſee a diſtreſſed creature, eſpecially if they ſee a <hi>diſtreſſed Saint,</hi> they cannot hold their hands from mercy; Go on thus doing, and know, <hi>You ſhall obtain mercy;</hi>
+               <note place="margin">Mal. 3.16.</note> God keepes a <hi>book of remembrance</hi> for all your disburſements to the poor.<note place="margin">Heb. 6.10.</note> 
+               <hi>He is not unrighteous to forget your labour of Love.</hi> How ſweet will that <hi>ſentence</hi> be at the great day, <hi>Come ye bleſſed of my Father,</hi>
+               <note place="margin">Matth. 25 34.</note> 
+               <hi>inherit the kingdom prepared for you.</hi> How many hearts do you rejoyce now, and how will God fill you brim full with joy in the day of your Accompt. Say not 'tis but <hi>little</hi> you can do. <hi>The Widows mite was accepted.</hi>
+               <note place="margin">Mark 12.43. Matth. 10.42. <hi>Non quanto ſed ex quantu<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi> Cypr. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chryſest.</hi> 2 Cor. 8.12.</note> 
+               <hi>A cup of cold water ſhall be rewarded.</hi> 'Tis not <hi>how much,</hi> but <hi>out of how much,</hi> that God looks at: 'tis not the <hi>quantity,</hi> but the <hi>ſincerity</hi> that pleaſes God. <hi>If there be firſt a willing mind, it is accepted according to that a man hath, &amp; not ac<g ref="char:EOLhyphen"/>cording to that he hath not.</hi> You are of all men moſt rea<g ref="char:EOLhyphen"/>dy to <hi>give,</hi> and moſt backward to take the <hi>comfort</hi> of your giving. Oh, that I might prevail with <hi>Muckworms</hi> to be more bountiful; and oh that I might prevail with them that are merciful, to be more cheerful: Do not you deſpiſe that mercy, which pleaſes God, and refreſhes ſo many poor creatures: <hi>Forget all in a
+<pb n="38" facs="tcp:118874:22"/>way of merit, but yet take the comfort of what you do in a way of duty.</hi> There's a time coming, when you ſhall ſtand in more need of mercy from God, then any poor creature here can ſtand in need of mercy from you; then you ſhall have it: Is not your condition good? <hi>Mercy</hi> from God is the <hi>ſum</hi> of all your deſires, you ſhall finde it in great abundance for your mercy to your Brethren. And yet let me tell you, you are come up to that which is higher then all this; <hi>To give your mony to the poor is much,</hi>
+               <note place="margin">2 Cor. 8.5.</note> but <hi>you have given your ſelves to the Lord, that's a great deal more.</hi> What have you <hi>left</hi> your ſelves? your <hi>goods</hi> are given to the <hi>poor,</hi> your <hi>ſelves</hi> are given to <hi>God;</hi> what have you more to give? Be of good comfort, you give your <hi>All</hi> to God, and he will give his <hi>All</hi> to you.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>5</label> In the laſt place, to ſhut up all; Having ſpoke ſo much <hi>for the poor,</hi> let me now ſpeak a word <hi>to the poor.</hi> The <hi>Sermon</hi> that I have preached will pleaſe you very well, for you love to heare of the <hi>Duty</hi> of the <hi>Rich,</hi> but you care not to heare of your own. <hi>Rich</hi> men muſt be <hi>mercifull,</hi> that you like well, you hope to be the better for it in outward things; <milestone type="tcpmilestone" unit="unspecified" n="1"/> But doth the word ſpeake nothing to you? Yes; you muſt be painefull and diligent in a calling;<note place="margin">2 Theſſ. 3.10.</note> 
+               <hi>He that will not wot work let him not eat,</hi> was the <hi>Apoſtles</hi> com<g ref="char:EOLhyphen"/>mand: <hi>Idleneſſe</hi> and <hi>Lazineſſe</hi> is the ſin of many that are in want; if they would but <hi>work</hi> they might <hi>eate their own bread,</hi>
+               <note place="margin">8<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12.</note> and not <hi>be chargeable</hi> to any. Whence is it that we have ſo many <hi>Vagrants</hi> and Beggars amongſt us?<note place="margin">Epheſ. 4.28.</note> Whence? 'Tis from <hi>Idleneſs;</hi> They go from houſe to houſe, and are ſupply'd by the mercy of others, and this ſlothfull life pleaſes them very well: There are others will take a little
+<pb n="39" facs="tcp:118874:22"/>paines, but when they have got a little mony, pre<g ref="char:EOLhyphen"/>ſently they go to an <hi>Alehouſe</hi> and there drink it away, and ſo their wives and children may ſtarve, if they be not relieved. Theſe are baſe wretches, and I beg no mercy for ſuch, but what (as I ſaid before) <hi>abſolute neceſſity</hi> doth require. Severity to theſe, either to make them to take paines,<note place="margin">Benefacta malè locata, malefa<g ref="char:EOLhyphen"/>cta arbitror. <hi>Ennii</hi> dictum. <hi>Commended by</hi> Tully, l <hi>2.</hi> de Offic.</note> Severity to theſe, either to make them to take paines, or to let them be pinched under their neceſſities, is the beſt mercy for them. God never injoyned mercy to <hi>incourage idleneſſe,</hi> but to <hi>ſupport weakneſſe.</hi> And therefore this is the firſt thing; you that are poor, if you have no Calling put your ſelves into one, if you have a Cal<g ref="char:EOLhyphen"/>ling, walk in it with all diligence and honeſty, &amp; then ſee if God doth not raiſe up friends to help you.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Again. the rich muſt be merciful to you, then you muſt carry your ſelves <hi>humbly,</hi> and <hi>civilly,</hi> and <hi>reſpect<g ref="char:EOLhyphen"/>fully</hi> to the rich. To be <hi>poor</hi> and <hi>ſawcy</hi> too is a very un<g ref="char:EOLhyphen"/>lovely thing. <hi>Mercy</hi> is a debt <hi>to</hi> you, <hi>honour</hi> and due reſpect is a debt <hi>from</hi> you; which is held out not on<g ref="char:EOLhyphen"/>ly by the light of <hi>Scripture,</hi> but by the very light of <hi>Nature.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> You may expect mercy from them that are full, but do it in a <hi>right manner,</hi> and upon <hi>right principles.</hi> Do not go and tell the rich, there ought to be a <hi>parity,</hi> and why ſhould they have ſo much, and you ſo little? for <hi>God</hi> hath made a <hi>difference</hi> in the <hi>perſons</hi> of the world, in the <hi>things</hi> of the world, and to <hi>level perſons and poſ<g ref="char:EOLhyphen"/>ſeſsions is directly contrary to the order and inſtitution of God.</hi> Do not go to ſet up a <hi>community,</hi> upon the miſta<g ref="char:EOLhyphen"/>king of that in the Apoſtles dayes, <hi>when all things were common;</hi>
+               <note place="margin">Acts 2.44.</note> for the breaking up of the <hi>incloſure</hi> of <hi>pro<g ref="char:EOLhyphen"/>perty</hi> is <hi>ſinful,</hi> and tends to all <hi>confuſion</hi> and <hi>cruelty.</hi> Do not go to the rich, and <hi>impudently</hi> demand relief from
+<pb n="40" facs="tcp:118874:23"/>them;<note place="margin">Prov. 18.23.</note> 'tis your due, but yet <hi>the poor muſt uſe intreaties. Importunity</hi> is <hi>tolerable,</hi> but <hi>impudence</hi> is <hi>loathſome.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Are the rich merciful to you, <hi>be ye merciful to them.</hi> There's mercy lying upon the <hi>poor</hi> as well as upon the <hi>rich.</hi> Do they open their <hi>hands</hi> to you, do you go to God in prayer and open your <hi>hearts</hi> for them; <hi>Charity</hi> they give to you, you muſt return <hi>prayer</hi> to them; <hi>Lord ſuch a man is good to me, be thou good to him, and requite him all his love ſeven-fold into his own boſom.</hi> This is the beſt expreſſion of your thankefull<g ref="char:EOLhyphen"/>neſſe, and the beſt way to have their mercy yet to run out more freely upon you.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Do the rich deny you mercy, do not <hi>curſe</hi> and <hi>ſweare</hi> and <hi>fret</hi> at them, (as two many profanely do) but quietly waite tell God incline their hearts to ſhew favour to you.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> And laſtly, whileſt you would have others to be mercifull to your bodies, <hi>be not ye unmercifull to your own ſoules.</hi> Though you be very low, do not <hi>ſin; put not forth your hands to ſteale,</hi>
+               <note place="margin">Prov. 30.9.</note> do not go to helpe your ſelves by any indirect wayes, (which is the <hi>Devills temptation to the poor;</hi>) do not <hi>fret</hi> and mur<g ref="char:EOLhyphen"/>mare at the providence of God; Do not <hi>neglect</hi> your <hi>eternall ſalvation;</hi> This is to be unmercifull to your own ſoules. Whatever others do for the <hi>body,</hi> do you minde the <hi>ſoul.</hi>
+               <note place="margin">Mat. 5.3.</note> Are you <hi>poor</hi> in <hi>eſtate,</hi> be alſo <hi>poor in ſpirit?</hi> Are you <hi>poor in this world, be rich in faith and heires of the kingdom?</hi>
+               <note place="margin">James 2.5.</note> So <hi>be,</hi> and ſo <hi>live,</hi> that whatever becomes of you for the <hi>mercy</hi> of <hi>men here you may inherit the mercy of God hereafter unto all eternity.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Page 4. line 7. read <hi>rotten</hi> for <hi>written.</hi>
+            </p>
+            <pb facs="tcp:118874:23"/>
+         </div>
+      </back>
+   </text>
+</TEI>
